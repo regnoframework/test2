@@ -1,0 +1,210 @@
+﻿
+<section>
+    <!-- BREADCRUMB -->
+
+    <h2 id="overview">Data Document - <strong>ParamStatDoc</strong></h2>
+    <p>
+        The <a href="PARAM_STAT_DOC"><strong>ParamStatDoc</strong></a> document is a data document that contains 
+        the properties and statistics values for a parameter instance over a specified time range.
+    </p>
+</section>
+
+<section>
+    <table class="table table-bordered table-striped table-info">
+        <thead>
+            <tr>
+                <th>Field</th>
+                <th nowrap>Data Type</th>
+                <th>Required</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong><i>id</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    A unique identifier that is generated from a hash of the document fields and values.
+                    The proposed method of generation of this value is described in the section
+                    <a href="UNIQUE_ID_GENERATION"><strong>Unique Id Generation</strong></a>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>configDocId</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    The unique identifier <i>(id)</i> of the <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document 
+                    that this document is associated with.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>paramDefDocId</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    The unique identifier <i>(id)</i> of the <a href="PARAM_DEFINITION_DOC"><strong>ParamDefinitionDoc</strong></a> that 
+                    holds the properties for the parameter associated with the data values stored in this document.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>startTime</i></strong></td>
+                <td>64-bit Long</td>
+                <td>Yes</td>
+                <td>
+                    A 64-bit Long timestamp specifying start time of the data that this configuration holds.
+                    The timestamp represents the number of nanoseconds since the reference time of midnight, 1st January 1970.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>endTime</i></strong></td>
+                <td>64-bit Long</td>
+                <td>Yes</td>
+                <td>
+                    A 64-bit Long timestamp specifying end time of the data that this configuration holds.
+                    The timestamp represents the number of nanoseconds since the reference time of midnight, 1st January 1970.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>intervalType</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    A fixed string representing the interval type. Valid options
+                    are: <strong>Experiment, Time, Session, Lap, Corner, Straight, Run</strong>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>min</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the minimum sample value during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>max</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the maximum sample value during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>range</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the result of the <i>(maximum – minimum)</i> sample 
+                    value during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>mean</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the mean value for all samples during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>meanOfAbsolutes</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the mean value for all samples during the specified time range.
+                    Each sample value is first converted to an absolute value before being used for the mean calculation.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>geometricMean</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the geometric mean value of all samples during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>start</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the first sample value at or after the specified <i>startTime</i>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>end</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the last sample value before the specified <i>endTime</i>.
+                    The time range is inclusive so the value could be the value at the specified <i>endTime</i>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>change</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the result of the <i>(end – start)</i> sample
+                    value during the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>standardDeviation</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the standard deviation of all samples during the 
+                    specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>linearRegressionSlope</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the slope of the linear regression of all samples 
+                    in the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>linearRegressionIntercept</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the intercept value of the linear regression of all 
+                    samples in the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>linearRegressionRSquared</i></strong></td>
+                <td>64-bit Double</td>
+                <td>No</td>
+                <td>
+                    A 64-bit Double value representing the statistical R Squared value of the linear regression 
+                    of all samples in the specified time range.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>identityDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> of each
+                    associated <a href="IDENTITY_DOC"><strong>IdentityDoc</strong></a> document.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>type</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    The fixed value is always set to <strong>ParamStatDoc</strong>.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</section>

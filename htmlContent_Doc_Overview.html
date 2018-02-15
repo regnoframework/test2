@@ -1,0 +1,47 @@
+﻿
+<section>
+    <!-- BREADCRUMB -->
+
+    <h2 id="documentation">Documentation - Overview</h2>
+
+    <strong>Regno Standard</strong> documents are a collection of plain text documents using the industry
+    standard JSON format. Each of the Regno Standard documents provides a subset of functionality that when
+    combined provide a rich specification to handle all data types irrespective of format or source.
+    <br />
+    <br />
+    Each of the <strong>Regno Standard</strong> documents is described in detail using the side bar links to the left.
+    Each document detail contains an overview summary followed by a detailed specification table.
+    <br />
+    <br />
+    Each document table contains the following columns:
+
+    <ul>
+        <li>Field</li>
+        <li>Data Type</li>
+        <li>Required</li>
+        <li>Description</li>
+    </ul>
+
+    <br />
+
+    <div class="alert alert-warning" role="alert">
+        For all tables fields with the “Required” column set to a value of “True”, the Field
+        name and value must be included in the document with a valid value as defined in the Description.
+    </div>
+
+    <div class="alert alert-warning" role="alert">
+        For some table fields there exists only a fixed set of allowed values. Where ever the Data Type
+        of a Field is set to “Fixed String”, the value for that Field must use one of the allowed values as
+        defined in the Description column. For some fields there exists only a single allowed value.
+    </div>
+
+    <div class="alert alert-warning" role="alert">
+        When discussing documents in the context of a single data set instance, the complete set of documents
+        relating to a single data set is called the <strong>“Configuration Document Collection”</strong>. For
+        each data set there will be a single <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document and N number of associated child documents
+        of various types. Each of the child documents will contain a reference to the
+        parent <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document by populating the field <i>configDocId</i> with
+        the <i>id</i> value of the parent <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document.
+    </div>
+
+</section>

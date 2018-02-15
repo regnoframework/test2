@@ -1,0 +1,104 @@
+﻿
+<section>
+    <!-- BREADCRUMB -->
+
+    <h2 id="overview">Definition Document - <strong>EventDefinitionDoc</strong></h2>
+    <p>
+        The <a href="EVENT_DEFINITION_DOC"><strong>EventDefinitionDoc</strong></a> document 
+        is a definition document that contains the properties for a unique event definition instance.
+        <br />
+        <br />
+        The <a href="EVENT_DEFINITION_DOC"><strong>EventDefinitionDoc</strong></a> document 
+        is referenced by the <a href="EVENT_DATA_DOC"><strong>EventDataDoc</strong></a> document and 
+        is used to convert event data values into display values.
+        <br />
+        <br />
+        The <a href="EVENT_DEFINITION_DOC"><strong>EventDefinitionDoc</strong></a> document does not contain a reference to
+        the <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document and therefore can be reused by multiple configurations and data sets.
+    </p>
+</section>
+
+<section>
+    <table class="table table-bordered table-striped table-info">
+        <thead>
+            <tr>
+                <th>Field</th>
+                <th nowrap>Data Type</th>
+                <th>Required</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td><strong><i>id</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    A unique identifier that is referenced by all other documents that are associated with
+                    this definition. The proposed method of generation of this value is described in the
+                    section <a href="UNIQUE_ID_GENERATION"><strong>Unique Id Generation</strong></a>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>sourceId</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    A free form string identifier for the event.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>group</i></strong></td>
+                <td>String</td>
+                <td>No</td>
+                <td>
+                    A free form string value to associate a group with the event.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>priority</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    A fixed string value describing the priority of the event. Valid options 
+                    are: <strong>High, Medium, Low, Debug</strong>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>name</i></strong></td>
+                <td>String</td>
+                <td>No</td>
+                <td>
+                    A free form string value to name the event.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>description</i></strong></td>
+                <td>String</td>
+                <td>No</td>
+                <td>
+                    A free form string description of the event.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>identityDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> of each
+                    associated <a href="IDENTITY_DOC"><strong>IdentityDoc</strong></a> document.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>type</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    The fixed value is always set to <strong>EventDefDoc</strong>.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</section>

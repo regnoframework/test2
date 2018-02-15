@@ -1,0 +1,72 @@
+﻿
+<section>
+    <!-- BREADCRUMB -->
+
+    <h2 id="overview">Definition Document - <strong>ChannelDefinitionDoc</strong></h2>
+    <p>
+        The <a href="CHANNEL_DEFINITION_DOC"><strong>ChannelDefinitionDoc</strong></a> document 
+        is a definition document that contains the properties for a unique channel definition instance.
+        <br />
+        <br />
+        The <a href="CHANNEL_DEFINITION_DOC"><strong>ChannelDefinitionDoc</strong></a> document is referenced by
+        the <a href="PARAM_DEFINITION_DOC"><strong>ParamDefinitionDoc</strong></a> and 
+        <a href="CHANNEL_SAMPLES_DOC"><strong>ChannelSamplesDoc</strong></a> document and is used to
+        associate multiple rate data channels with a single parameter instance.
+        <br />
+        <br />
+        The <a href="CHANNEL_DEFINITION_DOC"><strong>ChannelDefinitionDoc</strong></a> document does not contain a reference to
+        the <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document and therefore can be reused by multiple configurations and data sets.
+    </p>
+</section>
+
+<section>
+    <table class="table table-bordered table-striped table-info">
+        <thead>
+            <tr>
+                <th>Field</th>
+                <th nowrap>Data Type</th>
+                <th>Required</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td><strong><i>id</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    A unique identifier that is referenced by all other documents that are associated with
+                    this definition. The proposed method of generation of this value is described in the
+                    section <a href="UNIQUE_ID_GENERATION"><strong>Unique Id Generation</strong></a>.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>frequency</i></strong></td>
+                <td>64-bit Double</td>
+                <td>Yes</td>
+                <td>
+                    A 64-bit Double value representing the frequency in hertz of the channel.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>identityDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> of each
+                    associated <a href="IDENTITY_DOC"><strong>IdentityDoc</strong></a> document.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>type</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    The fixed value is always set to <strong>ChannelDefDoc</strong>.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</section>

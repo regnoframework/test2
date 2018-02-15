@@ -1,0 +1,127 @@
+﻿
+<section>
+    <!-- BREADCRUMB -->
+
+    <h2 id="overview">Informational Document - <strong>ConfigDefinitionsDoc</strong></h2>
+    <p>
+        The <a href="CONFIG_DEFINITIONS_DOC"><strong>ConfigDefinitionsDoc</strong></a> document 
+        is an informational document that defines the collection of definition documents that 
+        are used by the child documents in a given Configuration Document Collection.
+    </p>
+</section>
+
+<section>
+    <table class="table table-bordered table-striped table-info">
+        <thead>
+            <tr>
+                <th>Field</th>
+                <th nowrap>Data Type</th>
+                <th>Required</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td><strong><i>id</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    A unique identifier that is referenced by the <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document. 
+                    The proposed method of generation of this value is described in the
+                    section <a href="UNIQUE_ID_GENERATION"><strong>Unique Id Generation</strong></a>.
+                </td>
+            </tr>
+
+            <tr>
+                <td><strong><i>configDocId</i></strong></td>
+                <td>String</td>
+                <td>Yes</td>
+                <td>
+                    The unique identifier <i>(id)</i> of the <a href="CONFIG_DOC"><strong>ConfigDoc</strong></a> document 
+                    that this document is associated with.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>paramDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="PARAM_DEFINITION_DOC"><strong>ParamDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>textConvDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="TEXT_CONVERSION_DEFINITION_DOC"><strong>TextConversionDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>tableConvDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="TABLE_CONVERSION_DEFINITION_DOC"><strong>TableConversionDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>rationalConvDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="RATIONAL_CONVERSION_DEFINITION_DOC"><strong>RationalConversionDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>eventDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="EVENT_DEFINITION_DOC"><strong>EventDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>canBusDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="CAN_BUS_DEFINITION_DOC"><strong>CANBusDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+            <tr>
+                <td><strong><i>triggerDefDocIds</i></strong></td>
+                <td>Array [String]</td>
+                <td>No</td>
+                <td>
+                    An array of the unique identifiers <i>(id)</i> for each 
+                    of the <a href="TRIGGER_DEFINITION_DOC"><strong>TriggerDefinitionDoc</strong></a> documents
+                    that are used in the Configuration Document Collection.
+                </td>
+            </tr>
+
+            <tr>
+                <td><strong><i>type</i></strong></td>
+                <td>Fixed String</td>
+                <td>Yes</td>
+                <td>
+                    The fixed value is always set to <strong>ConfigDefsDoc</strong>.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</section>
