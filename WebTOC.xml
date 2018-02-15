@@ -1,0 +1,1307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9ff33245-9c92-4bc8-aa89-be0a0361090f" Title="Regno.Shared.SQLRace Namespace" Url="html/N-Regno.Shared.SQLRace.htm">
+    <HelpTOCNode Id="7a1489ed-a559-4139-94ec-5850120a2299" Title="ParameterData Class" Url="html/T-Regno.Shared.SQLRace.ParameterData.htm">
+      <HelpTOCNode Title="ParameterData Members" Url="html/AllMembers.T-Regno.Shared.SQLRace.ParameterData.htm" />
+      <HelpTOCNode Id="52e0e256-d264-4aee-a03c-a531a7399e72" Title="ParameterData Fields" Url="html/Fields.T-Regno.Shared.SQLRace.ParameterData.htm">
+        <HelpTOCNode Title="IsDebugParam Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.IsDebugParam.htm" />
+        <HelpTOCNode Title="LastSampleDeltaToSessionEnd Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.LastSampleDeltaToSessionEnd.htm" />
+        <HelpTOCNode Title="LoggedParam Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.LoggedParam.htm" />
+        <HelpTOCNode Title="ParamDefDoc Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.ParamDefDoc.htm" />
+        <HelpTOCNode Title="Parameter Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.Parameter.htm" />
+        <HelpTOCNode Title="ParameterDataAccess Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.ParameterDataAccess.htm" />
+        <HelpTOCNode Title="SampleCountPerSecond Field" Url="html/F-Regno.Shared.SQLRace.ParameterData.SampleCountPerSecond.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8b85c283-f4b2-42c0-b3fa-1314fb7bb444" Title="ParameterData Properties" Url="html/Properties.T-Regno.Shared.SQLRace.ParameterData.htm">
+        <HelpTOCNode Title="BucketArrayIndex Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.BucketArrayIndex.htm" />
+        <HelpTOCNode Title="BucketLastSampleTime Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.BucketLastSampleTime.htm" />
+        <HelpTOCNode Title="BucketSampleTimes Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.BucketSampleTimes.htm" />
+        <HelpTOCNode Title="BucketSampleValues Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.BucketSampleValues.htm" />
+        <HelpTOCNode Title="ChannelDefDocId Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.ChannelDefDocId.htm" />
+        <HelpTOCNode Title="CurrentBucketEndTime Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.CurrentBucketEndTime.htm" />
+        <HelpTOCNode Title="CurrentBucketStartTime Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.CurrentBucketStartTime.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.Identifier.htm" />
+        <HelpTOCNode Title="IsLoggedParam Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.IsLoggedParam.htm" />
+        <HelpTOCNode Title="IsPublished Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.IsPublished.htm" />
+        <HelpTOCNode Title="LastSampleTime Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.LastSampleTime.htm" />
+        <HelpTOCNode Title="MaxFrequency Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.MaxFrequency.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.Name.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.ParamDefDocId.htm" />
+        <HelpTOCNode Title="SampleCountPerRetrievalLoop Property " Url="html/P-Regno.Shared.SQLRace.ParameterData.SampleCountPerRetrievalLoop.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a92d7312-bab7-48cc-a921-4711f4613d5d" Title="RegnoSoftware.Standard Namespace" Url="html/N-RegnoSoftware.Standard.htm">
+    <HelpTOCNode Id="f4eb2f80-17b6-4fb0-b223-e7e6d4a40869" Title="RegnoCore Class" Url="html/T-RegnoSoftware.Standard.RegnoCore.htm">
+      <HelpTOCNode Title="RegnoCore Members" Url="html/AllMembers.T-RegnoSoftware.Standard.RegnoCore.htm" />
+      <HelpTOCNode Id="98ffba26-6d87-48a7-b59a-03a6524e44a3" Title="RegnoCore Fields" Url="html/Fields.T-RegnoSoftware.Standard.RegnoCore.htm">
+        <HelpTOCNode Title="MessageBus Field" Url="html/F-RegnoSoftware.Standard.RegnoCore.MessageBus.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a0c3eb3c-8a7f-4727-89b3-c3905c787dc7" Title="RegnoCore Methods" Url="html/Methods.T-RegnoSoftware.Standard.RegnoCore.htm">
+        <HelpTOCNode Title="ActivateStorageType Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.ActivateStorageType.htm" />
+        <HelpTOCNode Title="ExternalFileProcessorsExist Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.ExternalFileProcessorsExist.htm" />
+        <HelpTOCNode Title="GetConnector Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.GetConnector.htm" />
+        <HelpTOCNode Title="GetService Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.GetService.htm" />
+        <HelpTOCNode Title="GetValidServices Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.GetValidServices.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.Initialize.htm" />
+        <HelpTOCNode Title="Register(T) Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.Register--1.htm" />
+        <HelpTOCNode Title="RegisterSingleInstance(T) Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.RegisterSingleInstance--1.htm" />
+        <HelpTOCNode Title="Resolve(T) Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.Resolve--1.htm" />
+        <HelpTOCNode Title="ServiceExists Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.ServiceExists.htm" />
+        <HelpTOCNode Title="ValidateEntity(T) Method " Url="html/M-RegnoSoftware.Standard.RegnoCore.ValidateEntity--1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="53d8d23b-72fe-48af-ba1a-db6f2c84eda1" Title="RegnoCore Properties" Url="html/Properties.T-RegnoSoftware.Standard.RegnoCore.htm">
+        <HelpTOCNode Title="EnableLogging Property " Url="html/P-RegnoSoftware.Standard.RegnoCore.EnableLogging.htm" />
+        <HelpTOCNode Title="IsInitialized Property " Url="html/P-RegnoSoftware.Standard.RegnoCore.IsInitialized.htm" />
+        <HelpTOCNode Title="IsShutdown Property " Url="html/P-RegnoSoftware.Standard.RegnoCore.IsShutdown.htm" />
+        <HelpTOCNode Title="SelectedServices Property " Url="html/P-RegnoSoftware.Standard.RegnoCore.SelectedServices.htm" />
+        <HelpTOCNode Title="ServiceType Property " Url="html/P-RegnoSoftware.Standard.RegnoCore.ServiceType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c3cd6a2d-a6c5-4258-87d8-0ecd01c538e8" Title="RegnoSoftware.Standard.Commands Namespace" Url="html/N-RegnoSoftware.Standard.Commands.htm">
+    <HelpTOCNode Id="67f94ece-8b0d-4c1e-8c46-33989cf5045e" Title="ActionCommand(T) Class" Url="html/T-RegnoSoftware.Standard.Commands.ActionCommand-1.htm">
+      <HelpTOCNode Title="ActionCommand(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Commands.ActionCommand-1.htm" />
+      <HelpTOCNode Id="c43fa91a-2ba2-4bb7-862c-75ec58cc6e36" Title="ActionCommand(T) Constructor " Url="html/Overload-RegnoSoftware.Standard.Commands.ActionCommand-1.-ctor.htm">
+        <HelpTOCNode Title="ActionCommand(T) Constructor (Action(T))" Url="html/M-RegnoSoftware.Standard.Commands.ActionCommand-1.-ctor.htm" />
+        <HelpTOCNode Title="ActionCommand(T) Constructor (Action(T), Func(Boolean))" Url="html/M-RegnoSoftware.Standard.Commands.ActionCommand-1.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="eb3e7173-e22b-4b2f-bf55-ebba2238dd2e" Title="ActionCommand(T) Methods" Url="html/Methods.T-RegnoSoftware.Standard.Commands.ActionCommand-1.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/M-RegnoSoftware.Standard.Commands.ActionCommand-1.CanExecute.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/M-RegnoSoftware.Standard.Commands.ActionCommand-1.Execute.htm" />
+        <HelpTOCNode Title="RaiseCanExecuteChanged Method " Url="html/M-RegnoSoftware.Standard.Commands.ActionCommand-1.RaiseCanExecuteChanged.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="95ab8741-7ccc-47eb-9694-b0f41d7d3488" Title="ActionCommand(T) Events" Url="html/Events.T-RegnoSoftware.Standard.Commands.ActionCommand-1.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/E-RegnoSoftware.Standard.Commands.ActionCommand-1.CanExecuteChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a1fa941e-832d-4180-a0ff-0fd996bca19c" Title="RegnoSoftware.Standard.Core.Common Namespace" Url="html/N-RegnoSoftware.Standard.Core.Common.htm">
+    <HelpTOCNode Id="159eac87-a8b7-4007-8fed-3d7f3be0aef9" Title="IRegnoSettings Interface" Url="html/T-RegnoSoftware.Standard.Core.Common.IRegnoSettings.htm">
+      <HelpTOCNode Title="IRegnoSettings Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.IRegnoSettings.htm" />
+      <HelpTOCNode Id="a0f420f2-a7bf-46f4-9454-0ff62bdd5211" Title="IRegnoSettings Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Common.IRegnoSettings.htm">
+        <HelpTOCNode Title="GetJsonString Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.GetJsonString.htm" />
+        <HelpTOCNode Title="GetNestedValue(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.GetNestedValue--1.htm" />
+        <HelpTOCNode Title="GetSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.GetSettings.htm" />
+        <HelpTOCNode Title="GetValueOfType(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.GetValueOfType--1.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.Initialize.htm" />
+        <HelpTOCNode Title="LoadFromFile Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.LoadFromFile.htm" />
+        <HelpTOCNode Title="OverwriteSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.OverwriteSettings.htm" />
+        <HelpTOCNode Title="SaveSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.SaveSettings.htm" />
+        <HelpTOCNode Title="SettingExists Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.SettingExists.htm" />
+        <HelpTOCNode Title="WriteNestedValue Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.WriteNestedValue.htm" />
+        <HelpTOCNode Title="WriteValue Method " Url="html/M-RegnoSoftware.Standard.Core.Common.IRegnoSettings.WriteValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="93bce3ce-b92e-417d-b7b1-18193f09ceff" Title="IRegnoSettings Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Common.IRegnoSettings.htm">
+        <HelpTOCNode Title="Item Property " Url="html/P-RegnoSoftware.Standard.Core.Common.IRegnoSettings.Item-System.String-.htm" />
+        <HelpTOCNode Title="SettingsFileName Property " Url="html/P-RegnoSoftware.Standard.Core.Common.IRegnoSettings.SettingsFileName.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2fc7d89d-f279-4834-bbf8-475befd2a677" Title="IRegnoSettings Events" Url="html/Events.T-RegnoSoftware.Standard.Core.Common.IRegnoSettings.htm">
+        <HelpTOCNode Title="SettingsUpdated Event" Url="html/E-RegnoSoftware.Standard.Core.Common.IRegnoSettings.SettingsUpdated.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4fd1985a-0e66-4bc6-a1a6-608b4ae3f667" Title="RegnoFileSystem Class" Url="html/T-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.htm">
+      <HelpTOCNode Title="RegnoFileSystem Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.htm" />
+      <HelpTOCNode Id="6a8cc728-cc79-4dcf-840c-645c895b4248" Title="RegnoFileSystem Fields" Url="html/Fields.T-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.htm">
+        <HelpTOCNode Title="DataDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.DataDirectory.htm" />
+        <HelpTOCNode Title="DownloadsDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.DownloadsDirectory.htm" />
+        <HelpTOCNode Title="ExternalDataDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.ExternalDataDirectory.htm" />
+        <HelpTOCNode Title="LiteDbDataDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.LiteDbDataDirectory.htm" />
+        <HelpTOCNode Title="RegnoLogFile Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.RegnoLogFile.htm" />
+        <HelpTOCNode Title="RegnoLogFolder Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.RegnoLogFolder.htm" />
+        <HelpTOCNode Title="SettingsFolder Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.SettingsFolder.htm" />
+        <HelpTOCNode Title="SQLiteDataDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.SQLiteDataDirectory.htm" />
+        <HelpTOCNode Title="UploadDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.UploadDirectory.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6b6360fd-0dd9-485b-95c0-47b1358ebe9e" Title="RegnoFileSystem Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.htm">
+        <HelpTOCNode Title="GetLocalSuperSetFileNames Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.GetLocalSuperSetFileNames.htm" />
+        <HelpTOCNode Title="GetLocalSuperSets Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.GetLocalSuperSets.htm" />
+        <HelpTOCNode Title="QueueFileWrite(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoFileSystem.QueueFileWrite--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6046f4a9-cc94-48ab-91e4-3d326afbf147" Title="RegnoSettings Class" Url="html/T-RegnoSoftware.Standard.Core.Common.RegnoSettings.htm">
+      <HelpTOCNode Title="RegnoSettings Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.RegnoSettings.htm" />
+      <HelpTOCNode Id="a4673ff7-46a4-4b4e-9c1f-75b9fd599f3c" Title="RegnoSettings Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Common.RegnoSettings.htm">
+        <HelpTOCNode Title="GetJsonString Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.GetJsonString.htm" />
+        <HelpTOCNode Title="GetNestedValue(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.GetNestedValue--1.htm" />
+        <HelpTOCNode Title="GetSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.GetSettings.htm" />
+        <HelpTOCNode Title="GetValueOfType(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.GetValueOfType--1.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.Initialize.htm" />
+        <HelpTOCNode Title="LoadFromFile Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.LoadFromFile.htm" />
+        <HelpTOCNode Title="OverwriteSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.OverwriteSettings.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.Save.htm" />
+        <HelpTOCNode Title="SaveSettings Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.SaveSettings.htm" />
+        <HelpTOCNode Title="SettingExists Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.SettingExists.htm" />
+        <HelpTOCNode Title="WriteNestedValue Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.WriteNestedValue.htm" />
+        <HelpTOCNode Title="WriteValue Method " Url="html/M-RegnoSoftware.Standard.Core.Common.RegnoSettings.WriteValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="971833b2-1b4b-4f87-9240-b68d6cdb6ff7" Title="RegnoSettings Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Common.RegnoSettings.htm">
+        <HelpTOCNode Title="Item Property " Url="html/P-RegnoSoftware.Standard.Core.Common.RegnoSettings.Item-System.String-.htm" />
+        <HelpTOCNode Title="SettingsFileName Property " Url="html/P-RegnoSoftware.Standard.Core.Common.RegnoSettings.SettingsFileName.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0e6e631-1fd6-4b4c-bdd6-8773d3ae550c" Title="RegnoSettings Events" Url="html/Events.T-RegnoSoftware.Standard.Core.Common.RegnoSettings.htm">
+        <HelpTOCNode Title="SettingsUpdated Event" Url="html/E-RegnoSoftware.Standard.Core.Common.RegnoSettings.SettingsUpdated.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="589ad417-6b89-4307-954d-921d7658ee24" Title="WellknownJsonTerms Class" Url="html/T-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.htm">
+      <HelpTOCNode Title="WellknownJsonTerms Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.htm" />
+      <HelpTOCNode Id="613d0a9e-d118-47da-ab79-c28bfbb21878" Title="WellknownJsonTerms Fields" Url="html/Fields.T-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.htm">
+        <HelpTOCNode Title="AndConditions Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AndConditions.htm" />
+        <HelpTOCNode Title="AndCounts Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AndCounts.htm" />
+        <HelpTOCNode Title="AndParamDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AndParamDefDocIds.htm" />
+        <HelpTOCNode Title="AndThresholds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AndThresholds.htm" />
+        <HelpTOCNode Title="ApplicationGroup Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ApplicationGroup.htm" />
+        <HelpTOCNode Title="AxisValuesX Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AxisValuesX.htm" />
+        <HelpTOCNode Title="AxisValuesY Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AxisValuesY.htm" />
+        <HelpTOCNode Title="AxisValuesZ Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.AxisValuesZ.htm" />
+        <HelpTOCNode Title="BitLength Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.BitLength.htm" />
+        <HelpTOCNode Title="ByteOrder Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ByteOrder.htm" />
+        <HelpTOCNode Title="CanBufferDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CanBufferDefDocIds.htm" />
+        <HelpTOCNode Title="CanBusDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CanBusDefDocIds.htm" />
+        <HelpTOCNode Title="CanMessageDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CanMessageDefDocIds.htm" />
+        <HelpTOCNode Title="CanParamDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CanParamDefDocIds.htm" />
+        <HelpTOCNode Title="Car Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Car.htm" />
+        <HelpTOCNode Title="Change Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Change.htm" />
+        <HelpTOCNode Title="ChannelDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ChannelDefDocId.htm" />
+        <HelpTOCNode Title="ChannelDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ChannelDefDocIds.htm" />
+        <HelpTOCNode Title="Chassis Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Chassis.htm" />
+        <HelpTOCNode Title="Circuit Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Circuit.htm" />
+        <HelpTOCNode Title="Coefficients Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Coefficients.htm" />
+        <HelpTOCNode Title="Condition Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Condition.htm" />
+        <HelpTOCNode Title="ConfigDefsDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ConfigDefsDocId.htm" />
+        <HelpTOCNode Title="ConfigDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ConfigDocId.htm" />
+        <HelpTOCNode Title="ConfigDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ConfigDocIds.htm" />
+        <HelpTOCNode Title="ConversionId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ConversionId.htm" />
+        <HelpTOCNode Title="Conversions Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Conversions.htm" />
+        <HelpTOCNode Title="Count Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Count.htm" />
+        <HelpTOCNode Title="CriticalMax Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CriticalMax.htm" />
+        <HelpTOCNode Title="CriticalMin Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.CriticalMin.htm" />
+        <HelpTOCNode Title="DataRate Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.DataRate.htm" />
+        <HelpTOCNode Title="DataType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.DataType.htm" />
+        <HelpTOCNode Title="DateOfRecording Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.DateOfRecording.htm" />
+        <HelpTOCNode Title="DefId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.DefId.htm" />
+        <HelpTOCNode Title="Delay Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Delay.htm" />
+        <HelpTOCNode Title="Description Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Description.htm" />
+        <HelpTOCNode Title="DocumentInterval Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.DocumentInterval.htm" />
+        <HelpTOCNode Title="Driver Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Driver.htm" />
+        <HelpTOCNode Title="Duration Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Duration.htm" />
+        <HelpTOCNode Title="End Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.End.htm" />
+        <HelpTOCNode Title="EndTime Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.EndTime.htm" />
+        <HelpTOCNode Title="EndTriggerCondDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.EndTriggerCondDefDocId.htm" />
+        <HelpTOCNode Title="EventDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.EventDefDocId.htm" />
+        <HelpTOCNode Title="EventDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.EventDefDocIds.htm" />
+        <HelpTOCNode Title="EventIdentifier Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.EventIdentifier.htm" />
+        <HelpTOCNode Title="Events Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Events.htm" />
+        <HelpTOCNode Title="Format Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Format.htm" />
+        <HelpTOCNode Title="Frequency Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Frequency.htm" />
+        <HelpTOCNode Title="GeometricMean Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.GeometricMean.htm" />
+        <HelpTOCNode Title="GlobalMask Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.GlobalMask.htm" />
+        <HelpTOCNode Title="Group Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Group.htm" />
+        <HelpTOCNode Title="Groups Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Groups.htm" />
+        <HelpTOCNode Title="Hash Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Hash.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Id.htm" />
+        <HelpTOCNode Title="Identifier Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Identifier.htm" />
+        <HelpTOCNode Title="IdentityDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.IdentityDocIds.htm" />
+        <HelpTOCNode Title="IdentityId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.IdentityId.htm" />
+        <HelpTOCNode Title="InfoId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.InfoId.htm" />
+        <HelpTOCNode Title="Interpolate Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Interpolate.htm" />
+        <HelpTOCNode Title="IntervalType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.IntervalType.htm" />
+        <HelpTOCNode Title="Length Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Length.htm" />
+        <HelpTOCNode Title="LinearRegIntercept Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.LinearRegIntercept.htm" />
+        <HelpTOCNode Title="LinearRegRSquared Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.LinearRegRSquared.htm" />
+        <HelpTOCNode Title="LinearRegSlope Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.LinearRegSlope.htm" />
+        <HelpTOCNode Title="LinkSpeed Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.LinkSpeed.htm" />
+        <HelpTOCNode Title="MarkerType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.MarkerType.htm" />
+        <HelpTOCNode Title="Max Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Max.htm" />
+        <HelpTOCNode Title="Maxs Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Maxs.htm" />
+        <HelpTOCNode Title="Mean Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Mean.htm" />
+        <HelpTOCNode Title="MeanOfAbsolutes Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.MeanOfAbsolutes.htm" />
+        <HelpTOCNode Title="Means Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Means.htm" />
+        <HelpTOCNode Title="MediaType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.MediaType.htm" />
+        <HelpTOCNode Title="MessageId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.MessageId.htm" />
+        <HelpTOCNode Title="MessageIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.MessageIds.htm" />
+        <HelpTOCNode Title="Min Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Min.htm" />
+        <HelpTOCNode Title="Mins Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Mins.htm" />
+        <HelpTOCNode Title="Mode Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Mode.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Name.htm" />
+        <HelpTOCNode Title="Number Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Number.htm" />
+        <HelpTOCNode Title="OrParamDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.OrParamDefDocIds.htm" />
+        <HelpTOCNode Title="Output Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Output.htm" />
+        <HelpTOCNode Title="ParamDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ParamDefDocId.htm" />
+        <HelpTOCNode Title="ParamDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ParamDefDocIds.htm" />
+        <HelpTOCNode Title="ParamFrequencies Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ParamFrequencies.htm" />
+        <HelpTOCNode Title="ParentConfigDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ParentConfigDocId.htm" />
+        <HelpTOCNode Title="Priority Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Priority.htm" />
+        <HelpTOCNode Title="Range Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Range.htm" />
+        <HelpTOCNode Title="RationalConvDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.RationalConvDefDocIds.htm" />
+        <HelpTOCNode Title="RawValues Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.RawValues.htm" />
+        <HelpTOCNode Title="Rearms Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Rearms.htm" />
+        <HelpTOCNode Title="ReceiveMask Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ReceiveMask.htm" />
+        <HelpTOCNode Title="SampleInterval Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SampleInterval.htm" />
+        <HelpTOCNode Title="SampleTimes Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SampleTimes.htm" />
+        <HelpTOCNode Title="SampleValues Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SampleValues.htm" />
+        <HelpTOCNode Title="Source Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Source.htm" />
+        <HelpTOCNode Title="SourceFileExtension Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SourceFileExtension.htm" />
+        <HelpTOCNode Title="SourceId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SourceId.htm" />
+        <HelpTOCNode Title="SourceKey Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SourceKey.htm" />
+        <HelpTOCNode Title="SourceLocation Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SourceLocation.htm" />
+        <HelpTOCNode Title="SourceType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.SourceType.htm" />
+        <HelpTOCNode Title="StandardDeviation Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StandardDeviation.htm" />
+        <HelpTOCNode Title="Start Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Start.htm" />
+        <HelpTOCNode Title="StartBit Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StartBit.htm" />
+        <HelpTOCNode Title="StartDelay Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StartDelay.htm" />
+        <HelpTOCNode Title="StartTime Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StartTime.htm" />
+        <HelpTOCNode Title="StartTriggerCondDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StartTriggerCondDefDocId.htm" />
+        <HelpTOCNode Title="Status Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Status.htm" />
+        <HelpTOCNode Title="StopDelay Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.StopDelay.htm" />
+        <HelpTOCNode Title="TableConvDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TableConvDefDocIds.htm" />
+        <HelpTOCNode Title="Tags Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Tags.htm" />
+        <HelpTOCNode Title="TextConvDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TextConvDefDocIds.htm" />
+        <HelpTOCNode Title="Threshold Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Threshold.htm" />
+        <HelpTOCNode Title="Time Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Time.htm" />
+        <HelpTOCNode Title="TimeMarkers Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TimeMarkers.htm" />
+        <HelpTOCNode Title="TimeOffset Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TimeOffset.htm" />
+        <HelpTOCNode Title="TriggerDefDocIds Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TriggerDefDocIds.htm" />
+        <HelpTOCNode Title="TriggerType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.TriggerType.htm" />
+        <HelpTOCNode Title="Type Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Type.htm" />
+        <HelpTOCNode Title="Units Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Units.htm" />
+        <HelpTOCNode Title="Value Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Value.htm" />
+        <HelpTOCNode Title="Values Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.Values.htm" />
+        <HelpTOCNode Title="WarningMax Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.WarningMax.htm" />
+        <HelpTOCNode Title="WarningMin Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.WarningMin.htm" />
+        <HelpTOCNode Title="XAxisParamDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.XAxisParamDefDocId.htm" />
+        <HelpTOCNode Title="YAxisParamDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.YAxisParamDefDocId.htm" />
+        <HelpTOCNode Title="ZAxisParamDefDocId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownJsonTerms.ZAxisParamDefDocId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="33bf29ae-0c52-4f2b-a47d-4d58a87cc4d3" Title="WellknownMessageQueueTerms Class" Url="html/T-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.htm">
+      <HelpTOCNode Title="WellknownMessageQueueTerms Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.htm" />
+      <HelpTOCNode Id="25f1b9a0-f941-45c8-9704-acfac72d2e6f" Title="WellknownMessageQueueTerms Fields" Url="html/Fields.T-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.htm">
+        <HelpTOCNode Title="ChannelTypeFanout Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.ChannelTypeFanout.htm" />
+        <HelpTOCNode Title="ChannelTypeTopic Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.ChannelTypeTopic.htm" />
+        <HelpTOCNode Title="ConfigTopicPrefix Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.ConfigTopicPrefix.htm" />
+        <HelpTOCNode Title="DataTopicPrefix Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.DataTopicPrefix.htm" />
+        <HelpTOCNode Title="HostName Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.HostName.htm" />
+        <HelpTOCNode Title="Password Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.Password.htm" />
+        <HelpTOCNode Title="QueueEatAll Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.QueueEatAll.htm" />
+        <HelpTOCNode Title="RegnoGatewayExchange Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.RegnoGatewayExchange.htm" />
+        <HelpTOCNode Title="RegnoLiveHeartbeatExchange Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.RegnoLiveHeartbeatExchange.htm" />
+        <HelpTOCNode Title="RegnoTopicExchange Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.RegnoTopicExchange.htm" />
+        <HelpTOCNode Title="UserName Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownMessageQueueTerms.UserName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd8d2359-65bf-4be7-94bd-b2665322d044" Title="WellknownTerms Class" Url="html/T-RegnoSoftware.Standard.Core.Common.WellknownTerms.htm">
+      <HelpTOCNode Title="WellknownTerms Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Common.WellknownTerms.htm" />
+      <HelpTOCNode Id="14e18244-12e3-478b-9cbc-72f8e8706052" Title="WellknownTerms Fields" Url="html/Fields.T-RegnoSoftware.Standard.Core.Common.WellknownTerms.htm">
+        <HelpTOCNode Title="BaseDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.BaseDirectory.htm" />
+        <HelpTOCNode Title="ConfigurationCollection Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.ConfigurationCollection.htm" />
+        <HelpTOCNode Title="CurrentStorageType Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.CurrentStorageType.htm" />
+        <HelpTOCNode Title="DataConversionWindowLayout Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.DataConversionWindowLayout.htm" />
+        <HelpTOCNode Title="DataDirectory Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.DataDirectory.htm" />
+        <HelpTOCNode Title="F1ParameterDeviceId Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.F1ParameterDeviceId.htm" />
+        <HelpTOCNode Title="FileLocalContainer Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.FileLocalContainer.htm" />
+        <HelpTOCNode Title="IotHubConnectionString Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.IotHubConnectionString.htm" />
+        <HelpTOCNode Title="IotHubEventsEndPoint Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.IotHubEventsEndPoint.htm" />
+        <HelpTOCNode Title="Lap Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.Lap.htm" />
+        <HelpTOCNode Title="MongoConnectionSocketTimeout Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoConnectionSocketTimeout.htm" />
+        <HelpTOCNode Title="MongoConnectionStrings Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoConnectionStrings.htm" />
+        <HelpTOCNode Title="MongoDbConnectionString Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoDbConnectionString.htm" />
+        <HelpTOCNode Title="MongoMaxConnectionPoolSize Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoMaxConnectionPoolSize.htm" />
+        <HelpTOCNode Title="MongoRaceDataCollection Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoRaceDataCollection.htm" />
+        <HelpTOCNode Title="MongoRegnoDatabase Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoRegnoDatabase.htm" />
+        <HelpTOCNode Title="MongoWaitQueueSize Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoWaitQueueSize.htm" />
+        <HelpTOCNode Title="MongoWaitQueueTimeout Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.MongoWaitQueueTimeout.htm" />
+        <HelpTOCNode Title="RecordSplit Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.RecordSplit.htm" />
+        <HelpTOCNode Title="RegnoDataFileExtension Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.RegnoDataFileExtension.htm" />
+        <HelpTOCNode Title="ServiceBusConnectionString Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.ServiceBusConnectionString.htm" />
+        <HelpTOCNode Title="StorageCloudContainer Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StorageCloudContainer.htm" />
+        <HelpTOCNode Title="StorageDemoLocalContainer Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StorageDemoLocalContainer.htm" />
+        <HelpTOCNode Title="StorageLocalContainer Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StorageLocalContainer.htm" />
+        <HelpTOCNode Title="StoredProcedureBulkImport Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StoredProcedureBulkImport.htm" />
+        <HelpTOCNode Title="StoredProcedureGetConfigurations Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StoredProcedureGetConfigurations.htm" />
+        <HelpTOCNode Title="StoredProcedureGetSuperSetForTimeRange Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StoredProcedureGetSuperSetForTimeRange.htm" />
+        <HelpTOCNode Title="StreamCloudContainer Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.StreamCloudContainer.htm" />
+        <HelpTOCNode Title="TopicApplicationgroup Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.TopicApplicationgroup.htm" />
+        <HelpTOCNode Title="TopicConfiguration Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.TopicConfiguration.htm" />
+        <HelpTOCNode Title="TopicParameter Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.TopicParameter.htm" />
+        <HelpTOCNode Title="TopicSuperset Field" Url="html/F-RegnoSoftware.Standard.Core.Common.WellknownTerms.TopicSuperset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="497a1c28-46ca-48df-bfd2-82ea219d6a9d" Title="RegnoSoftware.Standard.Core.Enums Namespace" Url="html/N-RegnoSoftware.Standard.Core.Enums.htm">
+    <HelpTOCNode Title="CANByteOrder Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.CANByteOrder.htm" />
+    <HelpTOCNode Title="CANDataType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.CANDataType.htm" />
+    <HelpTOCNode Title="CANMode Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.CANMode.htm" />
+    <HelpTOCNode Title="DataSourceType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.DataSourceType.htm" />
+    <HelpTOCNode Title="DocumentIntervalType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.DocumentIntervalType.htm" />
+    <HelpTOCNode Title="DocumentType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.DocumentType.htm" />
+    <HelpTOCNode Title="IntervalType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.IntervalType.htm" />
+    <HelpTOCNode Title="MediaType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.MediaType.htm" />
+    <HelpTOCNode Title="MessagePriority Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.MessagePriority.htm" />
+    <HelpTOCNode Title="ProcessStatus Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.ProcessStatus.htm" />
+    <HelpTOCNode Title="ServiceType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.ServiceType.htm" />
+    <HelpTOCNode Title="StorageLevel Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.StorageLevel.htm" />
+    <HelpTOCNode Title="SystemNotificationType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.SystemNotificationType.htm" />
+    <HelpTOCNode Title="TriggerCondition Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.TriggerCondition.htm" />
+    <HelpTOCNode Title="TriggerOutput Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.TriggerOutput.htm" />
+    <HelpTOCNode Title="TriggerType Enumeration" Url="html/T-RegnoSoftware.Standard.Core.Enums.TriggerType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="04a29791-3f16-4257-ae87-a341a447af32" Title="RegnoSoftware.Standard.Core.Extensions Namespace" Url="html/N-RegnoSoftware.Standard.Core.Extensions.htm">
+    <HelpTOCNode Id="23481886-16d9-493b-a1fe-e042636a26df" Title="DateTimeExtensions Class" Url="html/T-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.htm">
+      <HelpTOCNode Title="DateTimeExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.htm" />
+      <HelpTOCNode Id="c1ca1924-dd02-4d95-bcda-5c62e115b894" Title="DateTimeExtensions Fields" Url="html/Fields.T-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.htm">
+        <HelpTOCNode Title="MaximumNanosecondYear Field" Url="html/F-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.MaximumNanosecondYear.htm" />
+        <HelpTOCNode Title="NanosecondsPerDay Field" Url="html/F-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.NanosecondsPerDay.htm" />
+        <HelpTOCNode Title="NanosecondsPerMillisecond Field" Url="html/F-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.NanosecondsPerMillisecond.htm" />
+        <HelpTOCNode Title="NanosecondsPerSecond Field" Url="html/F-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.NanosecondsPerSecond.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1072149-e809-4d97-b650-9f4ebd5ff2c2" Title="DateTimeExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.htm">
+        <HelpTOCNode Id="c289f795-7d6e-40a0-9a45-575d61b6e913" Title="AddNanoseconds Method " Url="html/Overload-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.AddNanoseconds.htm">
+          <HelpTOCNode Title="AddNanoseconds Method (DateTime, Double)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.AddNanoseconds.htm" />
+          <HelpTOCNode Title="AddNanoseconds Method (DateTime, Int64)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.AddNanoseconds_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ElapsedNanoseconds Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ElapsedNanoseconds.htm" />
+        <HelpTOCNode Title="FromEpochNanoseconds Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.FromEpochNanoseconds.htm" />
+        <HelpTOCNode Title="SplitList(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.SplitList--1.htm" />
+        <HelpTOCNode Id="bbaab3f1-891c-4120-a985-f5a58db58bb6" Title="ToDateTime Method " Url="html/Overload-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToDateTime.htm">
+          <HelpTOCNode Title="ToDateTime Method (Int64)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToDateTime.htm" />
+          <HelpTOCNode Title="ToDateTime Method (Double)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToDateTime_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToDateTimeFromEpoch Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToDateTimeFromEpoch.htm" />
+        <HelpTOCNode Title="ToElapsedMilliseconds Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToElapsedMilliseconds.htm" />
+        <HelpTOCNode Title="ToEpoch Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToEpoch.htm" />
+        <HelpTOCNode Title="ToEpochNanoseconds Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToEpochNanoseconds.htm" />
+        <HelpTOCNode Title="ToEpochSecond Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToEpochSecond.htm" />
+        <HelpTOCNode Title="ToTimeSpan Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.DateTimeExtensions.ToTimeSpan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6904c522-05fe-45e5-b4ae-1122ab111ae4" Title="EnumerableExtensions Class" Url="html/T-RegnoSoftware.Standard.Core.Extensions.EnumerableExtensions.htm">
+      <HelpTOCNode Title="EnumerableExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Extensions.EnumerableExtensions.htm" />
+      <HelpTOCNode Id="d6bce977-0615-4111-82a7-3a32cc6760f1" Title="EnumerableExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Extensions.EnumerableExtensions.htm">
+        <HelpTOCNode Title="SelectRecursive(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.EnumerableExtensions.SelectRecursive--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c89eee1c-d6a1-45af-825b-56f01dbba94e" Title="JsonExtensions Class" Url="html/T-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.htm">
+      <HelpTOCNode Title="JsonExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.htm" />
+      <HelpTOCNode Id="c9776b82-d2c1-4189-92e3-1121e8c780b0" Title="JsonExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.htm">
+        <HelpTOCNode Title="FlushToDiskAsJsonFile(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.FlushToDiskAsJsonFile--1.htm" />
+        <HelpTOCNode Id="8f03eca4-8eae-4aa6-860c-465aeb5ed6a9" Title="FromRegnoType Method " Url="html/Overload-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.FromRegnoType-.htm">
+          <HelpTOCNode Title="FromRegnoType(T) Method (T)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.FromRegnoType--1.htm" />
+          <HelpTOCNode Title="FromRegnoType(T) Method (T[])" Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.FromRegnoType--1_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7e810c2b-b7e8-4138-b9f4-651d28fdd492" Title="Overload:RegnoSoftware.Standard.Core.Extensions.JsonExtensions.ToRegnoType">
+          <HelpTOCNode Title="ToRegnoType(T) Method (String)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.ToRegnoType--1.htm" />
+          <HelpTOCNode Title="ToRegnoType Method (String)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.ToRegnoType.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToRegnoTypeCollection(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.JsonExtensions.ToRegnoTypeCollection--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0ea16429-6d38-4000-adef-cdec1d9f0de0" Title="StandardExtensions Class" Url="html/T-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.htm">
+      <HelpTOCNode Title="StandardExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.htm" />
+      <HelpTOCNode Id="b0670758-d806-4909-8eae-f31845175f5f" Title="StandardExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.htm">
+        <HelpTOCNode Title="CopyTo Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.CopyTo.htm" />
+        <HelpTOCNode Title="FromSafeRegnoString Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.FromSafeRegnoString.htm" />
+        <HelpTOCNode Title="GenerateRegnoHashString Method (Object)" Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.GenerateRegnoHashString.htm" />
+        <HelpTOCNode Title="GetSize Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.GetSize.htm" />
+        <HelpTOCNode Title="GetValue Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.GetValue.htm" />
+        <HelpTOCNode Title="SaveToFile Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.SaveToFile.htm" />
+        <HelpTOCNode Title="SplitDocuments(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.SplitDocuments--1.htm" />
+        <HelpTOCNode Title="ToConversionId Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.ToConversionId.htm" />
+        <HelpTOCNode Title="ToSafeRegnoString Method " Url="html/M-RegnoSoftware.Standard.Core.Extensions.StandardExtensions.ToSafeRegnoString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6e117c74-c416-4806-a3f4-9063c47b2ae8" Title="RegnoSoftware.Standard.Core.Factories Namespace" Url="html/N-RegnoSoftware.Standard.Core.Factories.htm">
+    <HelpTOCNode Id="6a580cb8-1e13-472e-b4b1-2a4f699b163d" Title="IRegnoEntityFactory Interface" Url="html/T-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.htm">
+      <HelpTOCNode Title="IRegnoEntityFactory Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.htm" />
+      <HelpTOCNode Id="38821096-3baa-405a-889e-08f2ea5fe481" Title="IRegnoEntityFactory Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.htm">
+        <HelpTOCNode Title="CreateEntity(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateEntity--1.htm" />
+        <HelpTOCNode Title="CreateRegnoChannelSamplesDoc Method " Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoChannelSamplesDoc.htm" />
+        <HelpTOCNode Title="CreateRegnoConfigDoc Method " Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoConfigDoc.htm" />
+        <HelpTOCNode Id="bd0fe0c6-40ab-4d03-968e-786c9b755e8b" Title="CreateRegnoParamData Method " Url="html/Overload-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamData.htm">
+          <HelpTOCNode Title="CreateRegnoParamData Method (String, Int64, String, Int64, Int64)" Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamData.htm" />
+          <HelpTOCNode Title="CreateRegnoParamData Method (String, String, Int64, String, Int64, Int64)" Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamData_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ef8898aa-8789-4057-8193-4f0a65b5b11f" Title="CreateRegnoParamDefDoc Method " Url="html/Overload-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamDefDoc.htm">
+          <HelpTOCNode Title="CreateRegnoParamDefDoc Method (String, String[], String, String, String, String, Double, Double, Double, Double, Double, Double, String[], String)" Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamDefDoc.htm" />
+          <HelpTOCNode Title="CreateRegnoParamDefDoc Method (String, String[], String, String, String, String, Double, Double, String[], String)" Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateRegnoParamDefDoc_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateTimeMarkerDataDoc Method " Url="html/M-RegnoSoftware.Standard.Core.Factories.IRegnoEntityFactory.CreateTimeMarkerDataDoc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ae6df626-d11f-46e9-97d0-b32c2ee4e34d" Title="RegnoSoftware.Standard.Core.Interfaces Namespace" Url="html/N-RegnoSoftware.Standard.Core.Interfaces.htm">
+    <HelpTOCNode Id="9a35919b-501d-4fd3-9f64-fb50b9791e32" Title="IRegnoCANBufferDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.htm">
+      <HelpTOCNode Title="IRegnoCANBufferDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.htm" />
+      <HelpTOCNode Id="a189cb52-1171-4603-b457-651ece88e971" Title="IRegnoCANBufferDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.htm">
+        <HelpTOCNode Title="CanMessageDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.CanMessageDefDocIds.htm" />
+        <HelpTOCNode Title="DataRate Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.DataRate.htm" />
+        <HelpTOCNode Title="Mode Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.Mode.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.Name.htm" />
+        <HelpTOCNode Title="ReceiveMask Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBufferDefDoc.ReceiveMask.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3550c575-e50c-45f3-ba46-b4e01877db93" Title="IRegnoCANBusDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.htm">
+      <HelpTOCNode Title="IRegnoCANBusDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.htm" />
+      <HelpTOCNode Id="f7967151-d95a-4870-bb4b-233ba6d78448" Title="IRegnoCANBusDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.htm">
+        <HelpTOCNode Title="CanBufferDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.CanBufferDefDocIds.htm" />
+        <HelpTOCNode Title="GlobalMask Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.GlobalMask.htm" />
+        <HelpTOCNode Title="LinkSpeed Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.LinkSpeed.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANBusDefDoc.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="527c7f7b-bb1f-4d14-bcad-d9efccab62df" Title="IRegnoCANMessageDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.htm">
+      <HelpTOCNode Title="IRegnoCANMessageDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.htm" />
+      <HelpTOCNode Id="e116a967-4210-4de7-adaa-785e1175f59b" Title="IRegnoCANMessageDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.htm">
+        <HelpTOCNode Title="CanParamDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.CanParamDefDocIds.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.Description.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.Length.htm" />
+        <HelpTOCNode Title="MessageId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.MessageId.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANMessageDefDoc.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e210f8f9-914b-4d19-b211-de8bb813cc0f" Title="IRegnoCANParamDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.htm">
+      <HelpTOCNode Title="IRegnoCANParamDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.htm" />
+      <HelpTOCNode Id="0a942cdb-0199-4cef-bb91-0d0c2d52a1d4" Title="IRegnoCANParamDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.htm">
+        <HelpTOCNode Title="ByteOrder Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.ByteOrder.htm" />
+        <HelpTOCNode Title="DataType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.DataType.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.Name.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="StartBit Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoCANParamDefDoc.StartBit.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="57fa8a06-f6d5-4889-9142-65dedbfbdaeb" Title="IRegnoChannelDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelDefDoc.htm">
+      <HelpTOCNode Title="IRegnoChannelDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelDefDoc.htm" />
+      <HelpTOCNode Id="65a19a12-2bfd-4a13-b132-b4a3b0270273" Title="IRegnoChannelDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelDefDoc.htm">
+        <HelpTOCNode Title="Frequency Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelDefDoc.Frequency.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1517ac05-c6dc-49ca-9608-7704a0b5f4f5" Title="IRegnoChannelSamplesDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.htm">
+      <HelpTOCNode Title="IRegnoChannelSamplesDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.htm" />
+      <HelpTOCNode Id="d6ca1002-9987-4979-9b38-107e5eb06b7c" Title="IRegnoChannelSamplesDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.htm">
+        <HelpTOCNode Title="ChannelDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.ChannelDefDocId.htm" />
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="DocumentInterval Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.DocumentInterval.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="SampleTimes Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.SampleTimes.htm" />
+        <HelpTOCNode Title="SampleValues Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.SampleValues.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoChannelSamplesDoc.StartTime.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="255455a3-cdda-41ac-8f55-f087df5a58fa" Title="IRegnoConfigDefsDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.htm">
+      <HelpTOCNode Title="IRegnoConfigDefsDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.htm" />
+      <HelpTOCNode Id="9ca9f49d-1dcf-48bf-8a98-1035df4eaaff" Title="IRegnoConfigDefsDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.htm">
+        <HelpTOCNode Title="CanBusDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.CanBusDefDocIds.htm" />
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="EventDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.EventDefDocIds.htm" />
+        <HelpTOCNode Title="ParamDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.ParamDefDocIds.htm" />
+        <HelpTOCNode Title="RationalConvDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.RationalConvDefDocIds.htm" />
+        <HelpTOCNode Title="TableConvDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.TableConvDefDocIds.htm" />
+        <HelpTOCNode Title="TextConvDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.TextConvDefDocIds.htm" />
+        <HelpTOCNode Title="TriggerDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDefsDoc.TriggerDefDocIds.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8a2a8467-9571-4df1-81dc-0201b323caca" Title="IRegnoConfigDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.htm">
+      <HelpTOCNode Title="IRegnoConfigDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.htm" />
+      <HelpTOCNode Id="4b8d5e3e-b6aa-4c96-b9a5-134bca58ca66" Title="IRegnoConfigDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.htm">
+        <HelpTOCNode Title="ConfigDefsDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.ConfigDefsDocId.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.Description.htm" />
+        <HelpTOCNode Title="EndTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.EndTime.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.Name.htm" />
+        <HelpTOCNode Title="Number Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.Number.htm" />
+        <HelpTOCNode Title="ParentConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.ParentConfigDocId.htm" />
+        <HelpTOCNode Title="Source Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.Source.htm" />
+        <HelpTOCNode Title="SourceFileExtension Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.SourceFileExtension.htm" />
+        <HelpTOCNode Title="SourceLocation Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.SourceLocation.htm" />
+        <HelpTOCNode Title="SourceType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.SourceType.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.StartTime.htm" />
+        <HelpTOCNode Title="State Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.State.htm" />
+        <HelpTOCNode Title="Tags Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigDoc.Tags.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5e3e4b2f-dad4-425c-82c8-196b65c62d46" Title="IRegnoConfigurationInfo Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.htm">
+      <HelpTOCNode Title="IRegnoConfigurationInfo Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.htm" />
+      <HelpTOCNode Id="d67c63bd-1bfb-489b-9e4d-2219ea125238" Title="IRegnoConfigurationInfo Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.htm">
+        <HelpTOCNode Title="DateOfRecording Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.DateOfRecording.htm" />
+        <HelpTOCNode Title="EndTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.EndTime.htm" />
+        <HelpTOCNode Title="EndTimeEpoch Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.EndTimeEpoch.htm" />
+        <HelpTOCNode Title="FilePath Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.FilePath.htm" />
+        <HelpTOCNode Title="Hash Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.Hash.htm" />
+        <HelpTOCNode Title="Initialized Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.Initialized.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.Name.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.StartTime.htm" />
+        <HelpTOCNode Title="StartTimeEpoch Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.StartTimeEpoch.htm" />
+        <HelpTOCNode Title="TimeMarkerCount Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.TimeMarkerCount.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd8b5860-78f1-43c7-b4b0-41140f12a841" Title="IRegnoConfigurationInfo Events" Url="html/Events.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/E-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationInfo.PropertyChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IRegnoConfigurationType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoConfigurationType.htm" />
+    <HelpTOCNode Title="IRegnoDataType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoDataType.htm" />
+    <HelpTOCNode Title="IRegnoDefinitionType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoDefinitionType.htm" />
+    <HelpTOCNode Id="c8c3ac44-6071-42cc-9271-e74297710d32" Title="IRegnoEventDataDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.htm">
+      <HelpTOCNode Title="IRegnoEventDataDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.htm" />
+      <HelpTOCNode Id="17cbaecb-b82c-4082-bd77-3ba6a61ad6b1" Title="IRegnoEventDataDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="EventDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.EventDefDocId.htm" />
+        <HelpTOCNode Title="RawValues Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.RawValues.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.Status.htm" />
+        <HelpTOCNode Title="Time Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.Time.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDataDoc.Values.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="844ba7c0-355c-422f-a3c7-71809899ccb5" Title="IRegnoEventDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.htm">
+      <HelpTOCNode Title="IRegnoEventDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.htm" />
+      <HelpTOCNode Id="29ea7d06-53c0-46e7-b5a4-115aabc66999" Title="IRegnoEventDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.Description.htm" />
+        <HelpTOCNode Title="Group Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.Group.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.Name.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.Priority.htm" />
+        <HelpTOCNode Title="SourceId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoEventDefDoc.SourceId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cbc58527-a891-4794-83c2-1c522f42341b" Title="IRegnoIdentityDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityDoc.htm">
+      <HelpTOCNode Title="IRegnoIdentityDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityDoc.htm" />
+      <HelpTOCNode Id="f4d4b1b8-3aac-407b-98f8-e33452b05ea8" Title="IRegnoIdentityDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityDoc.htm">
+        <HelpTOCNode Title="Tags Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityDoc.Tags.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b5e2c3e-8c80-4f48-8c57-8649fcc5e35d" Title="IRegnoIdentityType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityType.htm">
+      <HelpTOCNode Title="IRegnoIdentityType Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityType.htm" />
+      <HelpTOCNode Id="74525056-f37b-4acb-bded-8c4c63869056" Title="IRegnoIdentityType Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityType.htm">
+        <HelpTOCNode Title="IdentityDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoIdentityType.IdentityDocIds.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60097ddb-cb24-49f5-bdb1-6572f30d7d13" Title="IRegnoMediaDataDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.htm">
+      <HelpTOCNode Title="IRegnoMediaDataDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.htm" />
+      <HelpTOCNode Id="fe4935ae-16a8-4a4e-a037-c32f275437a9" Title="IRegnoMediaDataDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="MediaType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.MediaType.htm" />
+        <HelpTOCNode Title="Source Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.Source.htm" />
+        <HelpTOCNode Title="SourceFileExtension Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.SourceFileExtension.htm" />
+        <HelpTOCNode Title="SourceLocation Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.SourceLocation.htm" />
+        <HelpTOCNode Title="Time Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.Time.htm" />
+        <HelpTOCNode Title="TimeOffset Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoMediaDataDoc.TimeOffset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="20983480-4626-41a7-a8ca-9a5dfb4d0ada" Title="IRegnoParam2DMapValueDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.htm">
+      <HelpTOCNode Title="IRegnoParam2DMapValueDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.htm" />
+      <HelpTOCNode Id="cbfdf843-3ebe-49f6-a79a-3301e943c792" Title="IRegnoParam2DMapValueDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.htm">
+        <HelpTOCNode Title="AxisValuesX Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.AxisValuesX.htm" />
+        <HelpTOCNode Title="AxisValuesY Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.AxisValuesY.htm" />
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.Values.htm" />
+        <HelpTOCNode Title="XAxisParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.XAxisParamDefDocId.htm" />
+        <HelpTOCNode Title="YAxisParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam2DMapValueDoc.YAxisParamDefDocId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="79f2b44d-257e-4f23-8412-1b8403e0a647" Title="IRegnoParam3DMapValueDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.htm">
+      <HelpTOCNode Title="IRegnoParam3DMapValueDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.htm" />
+      <HelpTOCNode Id="f660796a-8d81-4ff4-8059-66b1ddbe9006" Title="IRegnoParam3DMapValueDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.htm">
+        <HelpTOCNode Title="AxisValuesX Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.AxisValuesX.htm" />
+        <HelpTOCNode Title="AxisValuesY Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.AxisValuesY.htm" />
+        <HelpTOCNode Title="AxisValuesZ Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.AxisValuesZ.htm" />
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.Values.htm" />
+        <HelpTOCNode Title="XAxisParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.XAxisParamDefDocId.htm" />
+        <HelpTOCNode Title="YAxisParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.YAxisParamDefDocId.htm" />
+        <HelpTOCNode Title="ZAxisParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParam3DMapValueDoc.ZAxisParamDefDocId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="57b89887-b819-43e0-b65b-ebdc98e784d5" Title="IRegnoParamArrayValueDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.htm">
+      <HelpTOCNode Title="IRegnoParamArrayValueDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.htm" />
+      <HelpTOCNode Id="d2018f24-9aae-4c1a-8ee2-c8970ce1f95f" Title="IRegnoParamArrayValueDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamArrayValueDoc.Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7369c461-fd45-4567-a671-054276d5f194" Title="IRegnoParamDataDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.htm">
+      <HelpTOCNode Title="IRegnoParamDataDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.htm" />
+      <HelpTOCNode Id="aba5a3c7-cfe7-454a-a63d-53ba1eeb653c" Title="IRegnoParamDataDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="DocumentInterval Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.DocumentInterval.htm" />
+        <HelpTOCNode Title="Maxs Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.Maxs.htm" />
+        <HelpTOCNode Title="Mins Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.Mins.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="SampleInterval Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.SampleInterval.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDataDoc.StartTime.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="27e71863-45d0-4bd9-ac0e-8b9bb0df0457" Title="IRegnoParamDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.htm">
+      <HelpTOCNode Title="IRegnoParamDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.htm" />
+      <HelpTOCNode Id="cb031e71-599f-4bd2-aa39-09e0872501db" Title="IRegnoParamDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.htm">
+        <HelpTOCNode Title="ChannelDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.ChannelDefDocIds.htm" />
+        <HelpTOCNode Title="ConversionId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.ConversionId.htm" />
+        <HelpTOCNode Title="CriticalMax Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.CriticalMax.htm" />
+        <HelpTOCNode Title="CriticalMin Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.CriticalMin.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Description.htm" />
+        <HelpTOCNode Title="Format Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Format.htm" />
+        <HelpTOCNode Title="Groups Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Groups.htm" />
+        <HelpTOCNode Title="Max Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Max.htm" />
+        <HelpTOCNode Title="Min Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Min.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Name.htm" />
+        <HelpTOCNode Title="SourceId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.SourceId.htm" />
+        <HelpTOCNode Title="Units Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.Units.htm" />
+        <HelpTOCNode Title="WarningMax Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.WarningMax.htm" />
+        <HelpTOCNode Title="WarningMin Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamDefDoc.WarningMin.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a32f8d05-b758-4b64-9cbf-d7a0591945b7" Title="IRegnoParameterStringValue Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.htm">
+      <HelpTOCNode Title="IRegnoParameterStringValue Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.htm" />
+      <HelpTOCNode Id="6d7aca25-49b2-4e4e-bfb4-8e34de523b19" Title="IRegnoParameterStringValue Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.ConfigDocId.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.ParamDefDocId.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParameterStringValue.Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d95ab725-e8ee-476d-9ed4-86386342a490" Title="IRegnoParamScalarValueDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.htm">
+      <HelpTOCNode Title="IRegnoParamScalarValueDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.htm" />
+      <HelpTOCNode Id="94f0ba20-7dd6-4a69-b8dd-40827036e69f" Title="IRegnoParamScalarValueDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamScalarValueDoc.Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="94f694e8-dfa7-45fe-aebd-3716d484788f" Title="IRegnoParamStatDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.htm">
+      <HelpTOCNode Title="IRegnoParamStatDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.htm" />
+      <HelpTOCNode Id="e5ee1c23-e4f8-4a01-8c53-06c2e8ba8440" Title="IRegnoParamStatDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.htm">
+        <HelpTOCNode Title="Change Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Change.htm" />
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.End.htm" />
+        <HelpTOCNode Title="EndTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.EndTime.htm" />
+        <HelpTOCNode Title="GeometricMean Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.GeometricMean.htm" />
+        <HelpTOCNode Title="IntervalType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.IntervalType.htm" />
+        <HelpTOCNode Title="LinearRegIntercept Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.LinearRegIntercept.htm" />
+        <HelpTOCNode Title="LinearRegRSquared Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.LinearRegRSquared.htm" />
+        <HelpTOCNode Title="LinearRegSlope Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.LinearRegSlope.htm" />
+        <HelpTOCNode Title="Max Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Max.htm" />
+        <HelpTOCNode Title="Mean Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Mean.htm" />
+        <HelpTOCNode Title="MeanOfAbsolutes Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.MeanOfAbsolutes.htm" />
+        <HelpTOCNode Title="Min Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Min.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="Range Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Range.htm" />
+        <HelpTOCNode Title="StandardDeviation Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.StandardDeviation.htm" />
+        <HelpTOCNode Title="Start Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.Start.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoParamStatDoc.StartTime.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d0f109ce-3503-4eda-94f5-eb8fb95c26f4" Title="IRegnoRationalConvDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoRationalConvDefDoc.htm">
+      <HelpTOCNode Title="IRegnoRationalConvDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoRationalConvDefDoc.htm" />
+      <HelpTOCNode Id="7235cc97-49e8-4d6f-9344-9bfd99287ad6" Title="IRegnoRationalConvDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoRationalConvDefDoc.htm">
+        <HelpTOCNode Title="Coefficients Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoRationalConvDefDoc.Coefficients.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoRationalConvDefDoc.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IRegnoStatisticType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoStatisticType.htm" />
+    <HelpTOCNode Id="00b55754-8b09-46de-8159-bbf69bdd4ee5" Title="IRegnoSuperSetDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.htm">
+      <HelpTOCNode Title="IRegnoSuperSetDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.htm" />
+      <HelpTOCNode Id="7e6cf6b6-cf48-44e2-8256-d26fabee2331" Title="IRegnoSuperSetDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.htm">
+        <HelpTOCNode Title="ConfigDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.ConfigDocIds.htm" />
+        <HelpTOCNode Title="DateOfRecording Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.DateOfRecording.htm" />
+        <HelpTOCNode Title="EndTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.EndTime.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.Name.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.StartTime.htm" />
+        <HelpTOCNode Title="Tags Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoSuperSetDoc.Tags.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="db226e09-fdc6-473b-b4d3-5340e9eed915" Title="IRegnoTableConvDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.htm">
+      <HelpTOCNode Title="IRegnoTableConvDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.htm" />
+      <HelpTOCNode Id="315511f4-a9dd-435b-a147-9de434df4e19" Title="IRegnoTableConvDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.htm">
+        <HelpTOCNode Title="Conversions Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.Conversions.htm" />
+        <HelpTOCNode Title="Interpolate Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.Interpolate.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTableConvDefDoc.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e5aee0d6-da7a-44e9-b686-c4cb2a7f4616" Title="IRegnoTextConvDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTextConvDefDoc.htm">
+      <HelpTOCNode Title="IRegnoTextConvDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTextConvDefDoc.htm" />
+      <HelpTOCNode Id="9eb60ead-845a-4992-bd6d-b26d90c56bf5" Title="IRegnoTextConvDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTextConvDefDoc.htm">
+        <HelpTOCNode Title="Conversions Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTextConvDefDoc.Conversions.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTextConvDefDoc.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="415e341e-c5f4-4667-abba-4c4c7edab5aa" Title="IRegnoTimeMarkerDataDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.htm">
+      <HelpTOCNode Title="IRegnoTimeMarkerDataDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.htm" />
+      <HelpTOCNode Id="e749f2f0-42aa-4831-a1f7-718b64849820" Title="IRegnoTimeMarkerDataDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.htm">
+        <HelpTOCNode Title="ConfigDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.ConfigDocId.htm" />
+        <HelpTOCNode Title="MarkerType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.MarkerType.htm" />
+        <HelpTOCNode Title="Number Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.Number.htm" />
+        <HelpTOCNode Title="Source Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.Source.htm" />
+        <HelpTOCNode Title="Time Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTimeMarkerDataDoc.Time.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4cc0a30-39a8-4fb1-bb96-7c8d20b1c94f" Title="IRegnoTriggerCondDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.htm">
+      <HelpTOCNode Title="IRegnoTriggerCondDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.htm" />
+      <HelpTOCNode Id="7e27e65d-7227-4bb4-9b97-50ff20c8cb69" Title="IRegnoTriggerCondDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.htm">
+        <HelpTOCNode Title="Condition Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.Condition.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.Count.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.Name.htm" />
+        <HelpTOCNode Title="ParamDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.ParamDefDocId.htm" />
+        <HelpTOCNode Title="Threshold Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.Threshold.htm" />
+        <HelpTOCNode Title="TriggerType Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerCondDefDoc.TriggerType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd5afad0-556a-4083-8f9c-f26309096c6d" Title="IRegnoTriggerDefDoc Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.htm">
+      <HelpTOCNode Title="IRegnoTriggerDefDoc Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.htm" />
+      <HelpTOCNode Id="7bac5b6e-b451-4be3-a025-e3ab078c461f" Title="IRegnoTriggerDefDoc Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.htm">
+        <HelpTOCNode Title="EndTriggerCondDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.EndTriggerCondDefDocId.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.Name.htm" />
+        <HelpTOCNode Title="Output Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.Output.htm" />
+        <HelpTOCNode Title="ParamDefDocIds Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.ParamDefDocIds.htm" />
+        <HelpTOCNode Title="ParamFrequencies Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.ParamFrequencies.htm" />
+        <HelpTOCNode Title="Rearms Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.Rearms.htm" />
+        <HelpTOCNode Title="StartDelay Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.StartDelay.htm" />
+        <HelpTOCNode Title="StartTriggerCondDefDocId Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.StartTriggerCondDefDocId.htm" />
+        <HelpTOCNode Title="StopDelay Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoTriggerDefDoc.StopDelay.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d1bbc53c-4fda-46bb-9158-b5989820039b" Title="IRegnoType Interface" Url="html/T-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.htm">
+      <HelpTOCNode Title="IRegnoType Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.htm" />
+      <HelpTOCNode Id="be077414-7dd1-4adb-bdc9-aa2d803ddc3b" Title="IRegnoType Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.htm">
+        <HelpTOCNode Title="CreateIdHash Method " Url="html/M-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.CreateIdHash.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="71a089d3-df98-48c9-92e4-5db5a4fb6e0a" Title="IRegnoType Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.Id.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-RegnoSoftware.Standard.Core.Interfaces.IRegnoType.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2c1c5db7-49c6-4a1b-9282-651740ce7464" Title="RegnoSoftware.Standard.Core.JSON Namespace" Url="html/N-RegnoSoftware.Standard.Core.JSON.htm">
+    <HelpTOCNode Id="4fd5a725-6c60-4e14-9929-8ff06d40d4a3" Title="RegnoJsonConverter Class" Url="html/T-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.htm">
+      <HelpTOCNode Title="RegnoJsonConverter Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.htm" />
+      <HelpTOCNode Id="9900c4c5-046e-441e-965c-a045a6fc7d1f" Title="RegnoJsonConverter Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.htm">
+        <HelpTOCNode Title="CanConvert Method " Url="html/M-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.CanConvert.htm" />
+        <HelpTOCNode Title="ReadJson Method " Url="html/M-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.ReadJson.htm" />
+        <HelpTOCNode Title="WriteJson Method " Url="html/M-RegnoSoftware.Standard.Core.JSON.RegnoJsonConverter.WriteJson.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2bf5c08e-f57c-4289-8d4d-f71dbae42274" Title="RegnoJSONException Class" Url="html/T-RegnoSoftware.Standard.Core.JSON.RegnoJSONException.htm">
+      <HelpTOCNode Title="RegnoJSONException Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.JSON.RegnoJSONException.htm" />
+      <HelpTOCNode Id="23caeab7-48f0-4dc3-a8b0-59fdd8e27749" Title="RegnoJSONException Constructor " Url="html/Overload-RegnoSoftware.Standard.Core.JSON.RegnoJSONException.-ctor.htm">
+        <HelpTOCNode Title="RegnoJSONException Constructor (String)" Url="html/M-RegnoSoftware.Standard.Core.JSON.RegnoJSONException.-ctor.htm" />
+        <HelpTOCNode Title="RegnoJSONException Constructor (String, Exception)" Url="html/M-RegnoSoftware.Standard.Core.JSON.RegnoJSONException.-ctor_1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b19f35ef-6418-436f-a8c9-5ac1e4d2247c" Title="RegnoSoftware.Standard.Core.Logging Namespace" Url="html/N-RegnoSoftware.Standard.Core.Logging.htm">
+    <HelpTOCNode Id="2f3b1bfc-d7df-4d6b-aeed-4952c403052a" Title="IRegnoLogger Interface" Url="html/T-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.htm">
+      <HelpTOCNode Title="IRegnoLogger Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.htm" />
+      <HelpTOCNode Id="bdab9be9-73f9-4a44-a02d-795007b8c563" Title="IRegnoLogger Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.htm">
+        <HelpTOCNode Title="Log Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.Log.htm" />
+        <HelpTOCNode Title="LogDebugMessage Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogDebugMessage.htm" />
+        <HelpTOCNode Title="LogDiagnosticMessage Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogDiagnosticMessage.htm" />
+        <HelpTOCNode Title="LogError Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogError.htm" />
+        <HelpTOCNode Title="LogException Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogException.htm" />
+        <HelpTOCNode Title="LogMessage Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogMessage.htm" />
+        <HelpTOCNode Title="LogMetric Method " Url="html/M-RegnoSoftware.Standard.Core.Logging.IRegnoLogger.LogMetric.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f557d1d0-c6c7-4799-84fc-35a641c8fa37" Title="RegnoSoftware.Standard.Core.Validation Namespace" Url="html/N-RegnoSoftware.Standard.Core.Validation.htm">
+    <HelpTOCNode Id="cccdf8d5-083b-4a8c-b569-5c23dc807b8d" Title="EntityValidationError Class" Url="html/T-RegnoSoftware.Standard.Core.Validation.EntityValidationError.htm">
+      <HelpTOCNode Title="EntityValidationError Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Validation.EntityValidationError.htm" />
+      <HelpTOCNode Title="EntityValidationError Constructor " Url="html/M-RegnoSoftware.Standard.Core.Validation.EntityValidationError.-ctor.htm" />
+      <HelpTOCNode Id="21265265-4538-40e5-8039-ae9e303e3621" Title="EntityValidationError Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Validation.EntityValidationError.htm">
+        <HelpTOCNode Title="Field Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.EntityValidationError.Field.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.EntityValidationError.Message.htm" />
+        <HelpTOCNode Title="Schema Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.EntityValidationError.Schema.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="32be7e51-3db4-4cfc-bfce-cf98de3df261" Title="IRegnoValidator Interface" Url="html/T-RegnoSoftware.Standard.Core.Validation.IRegnoValidator.htm">
+      <HelpTOCNode Title="IRegnoValidator Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Validation.IRegnoValidator.htm" />
+      <HelpTOCNode Id="63b7d467-b11b-4a92-879c-d1dbd4396a29" Title="IRegnoValidator Methods" Url="html/Methods.T-RegnoSoftware.Standard.Core.Validation.IRegnoValidator.htm">
+        <HelpTOCNode Title="Validate(T) Method " Url="html/M-RegnoSoftware.Standard.Core.Validation.IRegnoValidator.Validate--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="658c2a7e-d1ac-48ad-b35d-69cd9d28409c" Title="ValidationResult Class" Url="html/T-RegnoSoftware.Standard.Core.Validation.ValidationResult.htm">
+      <HelpTOCNode Title="ValidationResult Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Core.Validation.ValidationResult.htm" />
+      <HelpTOCNode Title="ValidationResult Constructor " Url="html/M-RegnoSoftware.Standard.Core.Validation.ValidationResult.-ctor.htm" />
+      <HelpTOCNode Id="ace15a53-1b71-4f00-a174-b1c2cc5d3853" Title="ValidationResult Properties" Url="html/Properties.T-RegnoSoftware.Standard.Core.Validation.ValidationResult.htm">
+        <HelpTOCNode Title="Errors Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.ValidationResult.Errors.htm" />
+        <HelpTOCNode Title="IsValid Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.ValidationResult.IsValid.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.ValidationResult.Message.htm" />
+        <HelpTOCNode Title="Schema Property " Url="html/P-RegnoSoftware.Standard.Core.Validation.ValidationResult.Schema.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="39df4797-5221-45ac-b87f-cb730c74c156" Title="RegnoSoftware.Standard.Extensions Namespace" Url="html/N-RegnoSoftware.Standard.Extensions.htm">
+    <HelpTOCNode Id="3dfe28bf-a53a-47c2-9a01-5de05448e32e" Title="CastleWindsorExtensions Class" Url="html/T-RegnoSoftware.Standard.Extensions.CastleWindsorExtensions.htm">
+      <HelpTOCNode Title="CastleWindsorExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Extensions.CastleWindsorExtensions.htm" />
+      <HelpTOCNode Id="f32cf805-9897-4179-a710-010b7a7c1423" Title="CastleWindsorExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Extensions.CastleWindsorExtensions.htm">
+        <HelpTOCNode Title="Activate(T) Method " Url="html/M-RegnoSoftware.Standard.Extensions.CastleWindsorExtensions.Activate--1.htm" />
+        <HelpTOCNode Title="Deactivate(T) Method " Url="html/M-RegnoSoftware.Standard.Extensions.CastleWindsorExtensions.Deactivate--1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="993cc04e-3509-4a05-a8c7-f335483bc032" Title="MessageExtensions Class" Url="html/T-RegnoSoftware.Standard.Extensions.MessageExtensions.htm">
+      <HelpTOCNode Title="MessageExtensions Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Extensions.MessageExtensions.htm" />
+      <HelpTOCNode Id="69b8b96e-6a17-4924-bd27-fc91c8d29de5" Title="MessageExtensions Methods" Url="html/Methods.T-RegnoSoftware.Standard.Extensions.MessageExtensions.htm">
+        <HelpTOCNode Title="ProcessExternalFile Method " Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.ProcessExternalFile.htm" />
+        <HelpTOCNode Title="ProcessExternalFileAsync Method " Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.ProcessExternalFileAsync.htm" />
+        <HelpTOCNode Title="SendError Method " Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendError.htm" />
+        <HelpTOCNode Id="feaf46d7-76b0-4baa-ba15-67a8d1106047" Title="SendException Method " Url="html/Overload-RegnoSoftware.Standard.Extensions.MessageExtensions.SendException.htm">
+          <HelpTOCNode Title="SendException Method (IMessageBus, Exception)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendException.htm" />
+          <HelpTOCNode Title="SendException Method (IMessageBus, String, Exception)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendException_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6b02d86e-2aa8-48ce-bbf5-c0c6034aae09" Title="SendMetric Method " Url="html/Overload-RegnoSoftware.Standard.Extensions.MessageExtensions.SendMetric.htm">
+          <HelpTOCNode Title="SendMetric Method (IMessageBus, String)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendMetric.htm" />
+          <HelpTOCNode Title="SendMetric Method (IMessageBus, String, Double)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendMetric_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a02bb999-7131-4aef-9f76-b55cec56bbf3" Title="SendNotification Method " Url="html/Overload-RegnoSoftware.Standard.Extensions.MessageExtensions.SendNotification.htm">
+          <HelpTOCNode Title="SendNotification Method (IMessageBus, String)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendNotification.htm" />
+          <HelpTOCNode Title="SendNotification Method (IMessageBus, String, SystemNotificationType)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendNotification_1.htm" />
+          <HelpTOCNode Title="SendNotification Method (IMessageBus, SystemMessagePayload)" Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendNotification_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SendProgress Method " Url="html/M-RegnoSoftware.Standard.Extensions.MessageExtensions.SendProgress.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="94aa4a97-1a39-4540-890d-072d79eb9a5f" Title="RegnoSoftware.Standard.Installers Namespace" Url="html/N-RegnoSoftware.Standard.Installers.htm">
+    <HelpTOCNode Id="e654c458-b2c8-4129-a696-bea67dfdcb0e" Title="ConnectorInstaller Class" Url="html/T-RegnoSoftware.Standard.Installers.ConnectorInstaller.htm">
+      <HelpTOCNode Title="ConnectorInstaller Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Installers.ConnectorInstaller.htm" />
+      <HelpTOCNode Id="7d318adf-9e5a-4585-b9ce-79eda06815b5" Title="ConnectorInstaller Methods" Url="html/Methods.T-RegnoSoftware.Standard.Installers.ConnectorInstaller.htm">
+        <HelpTOCNode Title="Install Method " Url="html/M-RegnoSoftware.Standard.Installers.ConnectorInstaller.Install.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c5e69212-c0d6-4c69-bdc7-5f2bed6d6f65" Title="DeviceInstaller Class" Url="html/T-RegnoSoftware.Standard.Installers.DeviceInstaller.htm">
+      <HelpTOCNode Title="DeviceInstaller Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Installers.DeviceInstaller.htm" />
+      <HelpTOCNode Id="a7796a41-3d65-49ce-99c7-41989f140ca7" Title="DeviceInstaller Methods" Url="html/Methods.T-RegnoSoftware.Standard.Installers.DeviceInstaller.htm">
+        <HelpTOCNode Title="Install Method " Url="html/M-RegnoSoftware.Standard.Installers.DeviceInstaller.Install.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="692551fe-7859-49b3-af4b-fc588ed69607" Title="FrameworkInstaller Class" Url="html/T-RegnoSoftware.Standard.Installers.FrameworkInstaller.htm">
+      <HelpTOCNode Title="FrameworkInstaller Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Installers.FrameworkInstaller.htm" />
+      <HelpTOCNode Id="1b3040be-f59b-4e72-9a01-41876246055b" Title="FrameworkInstaller Methods" Url="html/Methods.T-RegnoSoftware.Standard.Installers.FrameworkInstaller.htm">
+        <HelpTOCNode Title="Install Method " Url="html/M-RegnoSoftware.Standard.Installers.FrameworkInstaller.Install.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bffd6546-ad8a-4269-a67d-4298769f5b7e" Title="ServiceInstaller Class" Url="html/T-RegnoSoftware.Standard.Installers.ServiceInstaller.htm">
+      <HelpTOCNode Title="ServiceInstaller Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Installers.ServiceInstaller.htm" />
+      <HelpTOCNode Id="49e0df38-f405-4d64-bad1-7348e278878c" Title="ServiceInstaller Methods" Url="html/Methods.T-RegnoSoftware.Standard.Installers.ServiceInstaller.htm">
+        <HelpTOCNode Title="Install Method " Url="html/M-RegnoSoftware.Standard.Installers.ServiceInstaller.Install.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0f6f06e2-8b8c-4868-9f95-b5346c86cf12" Title="RegnoSoftware.Standard.Interfaces Namespace" Url="html/N-RegnoSoftware.Standard.Interfaces.htm">
+    <HelpTOCNode Id="ea4e0217-1a04-46ca-842c-a9e62f235f44" Title="IRegnoExternalConnector Interface" Url="html/T-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.htm">
+      <HelpTOCNode Title="IRegnoExternalConnector Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.htm" />
+      <HelpTOCNode Id="21718624-69f4-43aa-a260-6779eef1e879" Title="IRegnoExternalConnector Methods" Url="html/Methods.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.htm">
+        <HelpTOCNode Title="Disable Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.Disable.htm" />
+        <HelpTOCNode Title="Enable Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.Enable.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.Initialize.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.Load.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f8d89b2-58c7-4b9e-9aeb-fbb0bd3222d1" Title="IRegnoExternalConnector Properties" Url="html/Properties.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.htm">
+        <HelpTOCNode Title="IsEnabled Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.IsEnabled.htm" />
+        <HelpTOCNode Title="IsInitialized Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalConnector.IsInitialized.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4f23db26-f974-4828-bde7-9752a4fd2108" Title="IRegnoExternalEntity Interface" Url="html/T-RegnoSoftware.Standard.Interfaces.IRegnoExternalEntity.htm">
+      <HelpTOCNode Title="IRegnoExternalEntity Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalEntity.htm" />
+      <HelpTOCNode Id="01962d7f-d314-4789-ab5d-a6e6cbf9ff32" Title="IRegnoExternalEntity Properties" Url="html/Properties.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalEntity.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalEntity.Description.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalEntity.Identifier.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="75908027-692c-4a6f-8ff1-60bb99a768a8" Title="IRegnoExternalPublisherDevice Interface" Url="html/T-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.htm">
+      <HelpTOCNode Title="IRegnoExternalPublisherDevice Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.htm" />
+      <HelpTOCNode Id="c5c10477-a073-45a8-857c-1f0224ddb426" Title="IRegnoExternalPublisherDevice Methods" Url="html/Methods.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.htm">
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.Initialize.htm" />
+        <HelpTOCNode Title="Publish Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.Publish.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.Start.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.Stop.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="eaa8a8cf-42a4-4754-8958-71de7897276f" Title="IRegnoExternalPublisherDevice Properties" Url="html/Properties.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.htm">
+        <HelpTOCNode Title="Identifier Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.Identifier.htm" />
+        <HelpTOCNode Title="IsInitialized Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalPublisherDevice.IsInitialized.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3df2d0be-a19a-4493-9b0b-26c51c3f67c7" Title="IRegnoExternalService Interface" Url="html/T-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.htm">
+      <HelpTOCNode Title="IRegnoExternalService Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.htm" />
+      <HelpTOCNode Id="e21ce063-a37d-4f8d-9868-b3cc1cedb4b6" Title="IRegnoExternalService Methods" Url="html/Methods.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.htm">
+        <HelpTOCNode Title="Activate Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.Activate.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.Deactivate.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="719ed82d-deaf-48b1-983e-9261d4b562d0" Title="IRegnoExternalService Properties" Url="html/Properties.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.htm">
+        <HelpTOCNode Title="DataManager Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.DataManager.htm" />
+        <HelpTOCNode Title="IsInitialized Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalService.IsInitialized.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4e591dd8-5f3d-415f-b361-db2ef5dc9e25" Title="IRegnoExternalSubscriberDevice Interface" Url="html/T-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.htm">
+      <HelpTOCNode Title="IRegnoExternalSubscriberDevice Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.htm" />
+      <HelpTOCNode Id="7d09b417-bc3f-4d5c-8bd4-c1f5eb836e18" Title="IRegnoExternalSubscriberDevice Methods" Url="html/Methods.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.htm">
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.Initialize.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.Start.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.Stop.htm" />
+        <HelpTOCNode Title="SubscribeToQueue Method " Url="html/M-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.SubscribeToQueue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="896d7835-a7e9-4116-9210-ec5b9e45f24a" Title="IRegnoExternalSubscriberDevice Properties" Url="html/Properties.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.htm">
+        <HelpTOCNode Title="Identifier Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.Identifier.htm" />
+        <HelpTOCNode Title="IsInitialized Property " Url="html/P-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.IsInitialized.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ebe4035f-76b4-4319-957a-1b49a14a0f50" Title="IRegnoExternalSubscriberDevice Events" Url="html/Events.T-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.htm">
+        <HelpTOCNode Title="LiveConfigurationRecieved Event" Url="html/E-RegnoSoftware.Standard.Interfaces.IRegnoExternalSubscriberDevice.LiveConfigurationRecieved.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="68a7aff2-7334-4191-817c-a0bd3ae4d67f" Title="RegnoSoftware.Standard.Messages Namespace" Url="html/N-RegnoSoftware.Standard.Messages.htm">
+    <HelpTOCNode Id="0e682830-5312-4ff1-b9b8-db6779721f64" Title="IMessage Interface" Url="html/T-RegnoSoftware.Standard.Messages.IMessage.htm">
+      <HelpTOCNode Title="IMessage Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.IMessage.htm" />
+      <HelpTOCNode Id="04254e9b-4735-489e-a16f-b3f7320c6cc4" Title="IMessage Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.IMessage.htm">
+        <HelpTOCNode Title="MessageId Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessage.MessageId.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessage.Priority.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c1c5205-15c4-455d-b71e-d377272c20ac" Title="IMessage(T) Interface" Url="html/T-RegnoSoftware.Standard.Messages.IMessage-1.htm">
+      <HelpTOCNode Title="IMessage Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.IMessage-1.htm" />
+      <HelpTOCNode Id="535992ad-544f-4efc-8cbf-5cf9847d69a0" Title="IMessage Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.IMessage-1.htm">
+        <HelpTOCNode Title="Content Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessage-1.Content.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f2b6baa-f9bb-4805-a020-d88b9619acd3" Title="IMessage(T, TU) Interface" Url="html/T-RegnoSoftware.Standard.Messages.IMessage-2.htm">
+      <HelpTOCNode Title="IMessage Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.IMessage-2.htm" />
+      <HelpTOCNode Id="58a6bec0-a5f8-4849-93bd-dc8aa15de261" Title="IMessage Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.IMessage-2.htm">
+        <HelpTOCNode Title="Content Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessage-2.Content.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessage-2.Message.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf04c77b-9168-45e2-af8b-d42c0bfb1b63" Title="IMessageBus Interface" Url="html/T-RegnoSoftware.Standard.Messages.IMessageBus.htm">
+      <HelpTOCNode Title="IMessageBus Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.IMessageBus.htm" />
+      <HelpTOCNode Id="81bf5f67-22ff-4fd4-b02a-f64f0848a07d" Title="IMessageBus Methods" Url="html/Methods.T-RegnoSoftware.Standard.Messages.IMessageBus.htm">
+        <HelpTOCNode Title="Send(T) Method " Url="html/M-RegnoSoftware.Standard.Messages.IMessageBus.Send--1.htm" />
+        <HelpTOCNode Title="SendAsync(T) Method " Url="html/M-RegnoSoftware.Standard.Messages.IMessageBus.SendAsync--1.htm" />
+        <HelpTOCNode Id="2add09af-3520-4688-b926-b6732701f2f9" Title="Subscribe Method " Url="html/Overload-RegnoSoftware.Standard.Messages.IMessageBus.Subscribe-.htm">
+          <HelpTOCNode Title="Subscribe(T) Method (Action(T))" Url="html/M-RegnoSoftware.Standard.Messages.IMessageBus.Subscribe--1.htm" />
+          <HelpTOCNode Title="Subscribe(T) Method (Action(T), Predicate(T))" Url="html/M-RegnoSoftware.Standard.Messages.IMessageBus.Subscribe--1_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="439d3246-20a2-470e-836d-9f48c089f27a" Title="IMessageBus Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.IMessageBus.htm">
+        <HelpTOCNode Title="Messages Property " Url="html/P-RegnoSoftware.Standard.Messages.IMessageBus.Messages.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b869b4f0-8c8b-473c-9e58-1743975046e1" Title="MessageBase Class" Url="html/T-RegnoSoftware.Standard.Messages.MessageBase.htm">
+      <HelpTOCNode Title="MessageBase Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.MessageBase.htm" />
+      <HelpTOCNode Id="ca4673ba-4c21-4763-9ed8-bccb7305a027" Title="MessageBase Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.MessageBase.htm">
+        <HelpTOCNode Title="MessageId Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase.MessageId.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase.Priority.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="52e7044e-1054-4b51-aa0c-718dcf4c996a" Title="MessageBase(T) Class" Url="html/T-RegnoSoftware.Standard.Messages.MessageBase-1.htm">
+      <HelpTOCNode Title="MessageBase(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.MessageBase-1.htm" />
+      <HelpTOCNode Id="956819cc-f24c-4558-989c-7f5039d79326" Title="MessageBase(T) Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.MessageBase-1.htm">
+        <HelpTOCNode Title="Content Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-1.Content.htm" />
+        <HelpTOCNode Title="MessageId Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-1.MessageId.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-1.Priority.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e9d954bf-6d48-4e7d-a4e6-53d286f42cc4" Title="MessageBase(T, TU) Class" Url="html/T-RegnoSoftware.Standard.Messages.MessageBase-2.htm">
+      <HelpTOCNode Title="MessageBase(T, TU) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.MessageBase-2.htm" />
+      <HelpTOCNode Id="01ea46c1-9032-455e-b087-726b0429f0f4" Title="MessageBase(T, TU) Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.MessageBase-2.htm">
+        <HelpTOCNode Title="Content Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-2.Content.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-2.Message.htm" />
+        <HelpTOCNode Title="MessageId Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-2.MessageId.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Messages.MessageBase-2.Priority.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="64a25a02-18f9-4e00-853f-3538900de24d" Title="ValidateRegnoConfigurationRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationRequest.htm">
+      <HelpTOCNode Title="ValidateRegnoConfigurationRequest Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationRequest.htm" />
+      <HelpTOCNode Title="ValidateRegnoConfigurationRequest Constructor " Url="html/M-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationRequest.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8dcde16f-5391-4d65-a04e-0c11205c02bd" Title="ValidateRegnoConfigurationResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationResponse.htm">
+      <HelpTOCNode Title="ValidateRegnoConfigurationResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationResponse.htm" />
+      <HelpTOCNode Title="ValidateRegnoConfigurationResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.ValidateRegnoConfigurationResponse.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b61724a1-8f9f-47f1-96ff-dcd47b4f3fa7" Title="RegnoSoftware.Standard.Messages.External Namespace" Url="html/N-RegnoSoftware.Standard.Messages.External.htm">
+    <HelpTOCNode Id="a3676b05-a481-4e7e-bffe-093d313985f9" Title="PublishConfigurationRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.External.PublishConfigurationRequest.htm">
+      <HelpTOCNode Title="PublishConfigurationRequest Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.External.PublishConfigurationRequest.htm" />
+      <HelpTOCNode Title="PublishConfigurationRequest Constructor " Url="html/M-RegnoSoftware.Standard.Messages.External.PublishConfigurationRequest.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a7207425-469c-483c-9e2e-ef843d0f073d" Title="RegnoSoftware.Standard.Messages.Notification Namespace" Url="html/N-RegnoSoftware.Standard.Messages.Notification.htm">
+    <HelpTOCNode Id="dc86091f-9fce-4b6e-bc5e-b1ab9abac3b4" Title="ConnectorInitializedNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.ConnectorInitializedNotification.htm">
+      <HelpTOCNode Title="ConnectorInitializedNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.ConnectorInitializedNotification.htm" />
+      <HelpTOCNode Title="ConnectorInitializedNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.ConnectorInitializedNotification.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DataUploadStartedNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.DataUploadStartedNotification.htm" />
+    <HelpTOCNode Title="DataUploadStoppedNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.DataUploadStoppedNotification.htm" />
+    <HelpTOCNode Id="62587fc3-5c73-46a8-832b-f07d4348dccd" Title="FrameworkReadyNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.FrameworkReadyNotification.htm">
+      <HelpTOCNode Title="FrameworkReadyNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.FrameworkReadyNotification.htm" />
+      <HelpTOCNode Title="FrameworkReadyNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.FrameworkReadyNotification.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="208169c9-1734-4f9f-9bc3-1e914210650b" Title="ServiceInitializedNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.ServiceInitializedNotification.htm">
+      <HelpTOCNode Title="ServiceInitializedNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.ServiceInitializedNotification.htm" />
+      <HelpTOCNode Title="ServiceInitializedNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.ServiceInitializedNotification.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="SsnProcessingCompleteNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.SsnProcessingCompleteNotification.htm" />
+    <HelpTOCNode Title="StorageTypeChangedNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.StorageTypeChangedNotification.htm" />
+    <HelpTOCNode Id="a16e7c37-7358-4ed4-913f-77273aca976e" Title="SwitchMongoConnectionNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.SwitchMongoConnectionNotification.htm">
+      <HelpTOCNode Title="SwitchMongoConnectionNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.SwitchMongoConnectionNotification.htm" />
+      <HelpTOCNode Title="SwitchMongoConnectionNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.SwitchMongoConnectionNotification.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="09ffae21-faba-4d86-97e2-a71a68be3277" Title="SystemNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.SystemNotification.htm">
+      <HelpTOCNode Title="SystemNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.SystemNotification.htm" />
+      <HelpTOCNode Title="SystemNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.SystemNotification.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b989a6d8-b99a-4138-8ed8-153761b5a08b" Title="UpdateConfigurationEndTimeNotification Class" Url="html/T-RegnoSoftware.Standard.Messages.Notification.UpdateConfigurationEndTimeNotification.htm">
+      <HelpTOCNode Title="UpdateConfigurationEndTimeNotification Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Notification.UpdateConfigurationEndTimeNotification.htm" />
+      <HelpTOCNode Title="UpdateConfigurationEndTimeNotification Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Notification.UpdateConfigurationEndTimeNotification.-ctor.htm" />
+      <HelpTOCNode Id="f48a4579-fa73-4045-b064-bf66946cb89f" Title="UpdateConfigurationEndTimeNotification Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Notification.UpdateConfigurationEndTimeNotification.htm">
+        <HelpTOCNode Title="ConfigurationId Property " Url="html/P-RegnoSoftware.Standard.Messages.Notification.UpdateConfigurationEndTimeNotification.ConfigurationId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6c7384c6-e035-4575-88fa-279bdd6fa7f1" Title="RegnoSoftware.Standard.Messages.Payload Namespace" Url="html/N-RegnoSoftware.Standard.Messages.Payload.htm">
+    <HelpTOCNode Id="8b3da2a9-a70c-4094-84a7-3a1b9d3e9d1a" Title="NamedPipeMessage Class" Url="html/T-RegnoSoftware.Standard.Messages.Payload.NamedPipeMessage.htm">
+      <HelpTOCNode Title="NamedPipeMessage Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.NamedPipeMessage.htm" />
+      <HelpTOCNode Id="6a71a941-927a-43e8-8d41-ea7d7d8a5809" Title="NamedPipeMessage Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.NamedPipeMessage.htm">
+        <HelpTOCNode Title="Text Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.NamedPipeMessage.Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c6cb8d03-7a73-469e-9a97-16c81002c808" Title="ProcessConfigurationPayload Class" Url="html/T-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.htm">
+      <HelpTOCNode Title="ProcessConfigurationPayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.htm" />
+      <HelpTOCNode Title="ProcessConfigurationPayload Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.-ctor.htm" />
+      <HelpTOCNode Id="ddbc20c5-7e51-429b-b2de-796edc76dee7" Title="ProcessConfigurationPayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.htm">
+        <HelpTOCNode Title="ConnectionString Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.ConnectionString.htm" />
+        <HelpTOCNode Title="Errors Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.Errors.htm" />
+        <HelpTOCNode Title="ProcessException Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.ProcessException.htm" />
+        <HelpTOCNode Title="ProcessStatus Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.ProcessStatus.htm" />
+        <HelpTOCNode Title="RegnoConfigDoc Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessConfigurationPayload.RegnoConfigDoc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c922415b-a83a-4e57-b7c5-c6e212d12a72" Title="ProcessExternalFilePayload Structure" Url="html/T-RegnoSoftware.Standard.Messages.Payload.ProcessExternalFilePayload.htm">
+      <HelpTOCNode Title="ProcessExternalFilePayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.ProcessExternalFilePayload.htm" />
+      <HelpTOCNode Title="ProcessExternalFilePayload Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Payload.ProcessExternalFilePayload.-ctor.htm" />
+      <HelpTOCNode Id="7c6cd9b9-ee61-48cd-9f82-d94a08788380" Title="ProcessExternalFilePayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.ProcessExternalFilePayload.htm">
+        <HelpTOCNode Title="FilePath Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ProcessExternalFilePayload.FilePath.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0079ff85-2d68-48e3-a223-5f6849945eff" Title="PublishCustomDataPayload Class" Url="html/T-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.htm">
+      <HelpTOCNode Title="PublishCustomDataPayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.htm" />
+      <HelpTOCNode Title="PublishCustomDataPayload Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.-ctor.htm" />
+      <HelpTOCNode Id="b454bf5d-8ef4-4a01-b919-5efbaa034a36" Title="PublishCustomDataPayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.Data.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.Id.htm" />
+        <HelpTOCNode Title="TableName Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.PublishCustomDataPayload.TableName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a39fa024-1c7a-4c87-bc58-32da362d3b6c" Title="QueuePayload Class" Url="html/T-RegnoSoftware.Standard.Messages.Payload.QueuePayload.htm">
+      <HelpTOCNode Title="QueuePayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.QueuePayload.htm" />
+      <HelpTOCNode Title="QueuePayload Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Payload.QueuePayload.-ctor.htm" />
+      <HelpTOCNode Id="41fe0c96-8824-4abe-a220-132024cefe89" Title="QueuePayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.QueuePayload.htm">
+        <HelpTOCNode Title="Action Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.QueuePayload.Action.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eb724c57-7565-4e7c-9a05-553aa49901ee" Title="ServiceSettingsPayload Structure" Url="html/T-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.htm">
+      <HelpTOCNode Title="ServiceSettingsPayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.htm" />
+      <HelpTOCNode Title="ServiceSettingsPayload Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.-ctor.htm" />
+      <HelpTOCNode Id="501b986c-441e-4c28-a89f-ad33e0ea22c0" Title="ServiceSettingsPayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.htm">
+        <HelpTOCNode Title="Settings Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.Settings.htm" />
+        <HelpTOCNode Title="SourceName Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.ServiceSettingsPayload.SourceName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b43099ff-3d9f-4a7c-b0c1-68d9459bacf8" Title="SystemMessagePayload Class" Url="html/T-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.htm">
+      <HelpTOCNode Title="SystemMessagePayload Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.htm" />
+      <HelpTOCNode Id="7c709934-1b6b-4474-984d-463b33e04900" Title="SystemMessagePayload Constructor " Url="html/Overload-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.-ctor.htm">
+        <HelpTOCNode Title="SystemMessagePayload Constructor (String, SystemNotificationType)" Url="html/M-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.-ctor.htm" />
+        <HelpTOCNode Title="SystemMessagePayload Constructor (Exception)" Url="html/M-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.-ctor_1.htm" />
+        <HelpTOCNode Title="SystemMessagePayload Constructor (String, Exception)" Url="html/M-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.-ctor_2.htm" />
+        <HelpTOCNode Title="SystemMessagePayload Constructor (String, Double, SystemNotificationType)" Url="html/M-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.-ctor_3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="83826c58-e5e3-4452-a2d2-26d60393012e" Title="SystemMessagePayload Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.htm">
+        <HelpTOCNode Title="Exception Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.Exception.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.Message.htm" />
+        <HelpTOCNode Title="MessageType Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.MessageType.htm" />
+        <HelpTOCNode Title="MetricValue Property " Url="html/P-RegnoSoftware.Standard.Messages.Payload.SystemMessagePayload.MetricValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="99bc3468-90e9-4c7f-9438-568423c0b804" Title="RegnoSoftware.Standard.Messages.Request Namespace" Url="html/N-RegnoSoftware.Standard.Messages.Request.htm">
+    <HelpTOCNode Id="4cb1cd31-7d20-44e8-8b3e-d455f98ef68b" Title="ChangeStorageTypeRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.ChangeStorageTypeRequest.htm">
+      <HelpTOCNode Title="ChangeStorageTypeRequest Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.ChangeStorageTypeRequest.htm" />
+      <HelpTOCNode Title="ChangeStorageTypeRequest Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.ChangeStorageTypeRequest.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DownloadConfigurationsRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.DownloadConfigurationsRequest.htm" />
+    <HelpTOCNode Title="GetLiveSessionsRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.GetLiveSessionsRequest.htm" />
+    <HelpTOCNode Id="9e84dd11-5283-4c8c-b865-820bae054525" Title="ProcessExternalFileRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.ProcessExternalFileRequest.htm">
+      <HelpTOCNode Title="ProcessExternalFileRequest Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.ProcessExternalFileRequest.htm" />
+      <HelpTOCNode Title="ProcessExternalFileRequest Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.ProcessExternalFileRequest.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f88c03ef-5eb5-4bcb-9d76-b8b8113b4bf9" Title="PublishCustomData Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.PublishCustomData.htm">
+      <HelpTOCNode Title="PublishCustomData Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.PublishCustomData.htm" />
+      <HelpTOCNode Title="PublishCustomData Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishCustomData.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="95d5fbc2-c142-426a-a369-1175c293fac3" Title="PublishRegnoTypeCollectionRequest(T) Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.htm">
+      <HelpTOCNode Title="PublishRegnoTypeCollectionRequest(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.htm" />
+      <HelpTOCNode Id="09170351-dacb-4755-ae0d-6317b52edd4f" Title="PublishRegnoTypeCollectionRequest(T) Constructor " Url="html/Overload-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.-ctor.htm">
+        <HelpTOCNode Title="PublishRegnoTypeCollectionRequest(T) Constructor (T[], String, MessagePriority)" Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.-ctor.htm" />
+        <HelpTOCNode Title="PublishRegnoTypeCollectionRequest(T) Constructor (T[], MessagePriority)" Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e27d107e-44a5-4604-b48f-3311abb63e9f" Title="PublishRegnoTypeCollectionRequest(T) Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.htm">
+        <HelpTOCNode Title="ConfigurationId Property " Url="html/P-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionRequest-1.ConfigurationId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ca3ebba3-46ba-4038-8f11-b9d4c450a1d3" Title="PublishRegnoTypeCollectionToTopicRequest(T) Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionToTopicRequest-1.htm">
+      <HelpTOCNode Title="PublishRegnoTypeCollectionToTopicRequest(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionToTopicRequest-1.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeCollectionToTopicRequest(T) Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionToTopicRequest-1.-ctor.htm" />
+      <HelpTOCNode Id="96edc371-6499-4729-91bf-ce56dba5ec72" Title="PublishRegnoTypeCollectionToTopicRequest(T) Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionToTopicRequest-1.htm">
+        <HelpTOCNode Title="Topic Property " Url="html/P-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeCollectionToTopicRequest-1.Topic.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e40b0e13-2244-4307-a557-ef43e5721451" Title="PublishRegnoTypeRequest(T) Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeRequest-1.htm">
+      <HelpTOCNode Title="PublishRegnoTypeRequest(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeRequest-1.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeRequest(T) Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeRequest-1.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="967fd3dc-c7a9-476a-84d7-9e762aac50a5" Title="PublishRegnoTypeToTopicRequest(T) Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeToTopicRequest-1.htm">
+      <HelpTOCNode Title="PublishRegnoTypeToTopicRequest(T) Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeToTopicRequest-1.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeToTopicRequest(T) Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeToTopicRequest-1.-ctor.htm" />
+      <HelpTOCNode Id="dba90e8b-aba6-4db5-828e-1697fbb85d97" Title="PublishRegnoTypeToTopicRequest(T) Properties" Url="html/Properties.T-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeToTopicRequest-1.htm">
+        <HelpTOCNode Title="Topic Property " Url="html/P-RegnoSoftware.Standard.Messages.Request.PublishRegnoTypeToTopicRequest-1.Topic.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ResetConfigurationStatusRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.ResetConfigurationStatusRequest.htm" />
+    <HelpTOCNode Title="RetrieveConfigurationsRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.RetrieveConfigurationsRequest.htm" />
+    <HelpTOCNode Id="a307d697-41fc-4145-8731-4579ac70aab0" Title="RunSuperSetQueryRequest Class" Url="html/T-RegnoSoftware.Standard.Messages.Request.RunSuperSetQueryRequest.htm">
+      <HelpTOCNode Title="RunSuperSetQueryRequest Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Request.RunSuperSetQueryRequest.htm" />
+      <HelpTOCNode Title="RunSuperSetQueryRequest Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Request.RunSuperSetQueryRequest.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="43847922-9867-447d-ae02-12853c58c949" Title="RegnoSoftware.Standard.Messages.Response Namespace" Url="html/N-RegnoSoftware.Standard.Messages.Response.htm">
+    <HelpTOCNode Id="611815bd-4cac-4411-87aa-aefed6ca344b" Title="ChangeStorageTypeResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.ChangeStorageTypeResponse.htm">
+      <HelpTOCNode Title="ChangeStorageTypeResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.ChangeStorageTypeResponse.htm" />
+      <HelpTOCNode Title="ChangeStorageTypeResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.ChangeStorageTypeResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="702cfab4-4560-4815-8965-0082e39e45fa" Title="DownloadConfigurationsResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.DownloadConfigurationsResponse.htm">
+      <HelpTOCNode Title="DownloadConfigurationsResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.DownloadConfigurationsResponse.htm" />
+      <HelpTOCNode Title="DownloadConfigurationsResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.DownloadConfigurationsResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="381c13cf-2ac7-4295-98eb-955f9f9807a0" Title="GetLiveSessionsResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.GetLiveSessionsResponse.htm">
+      <HelpTOCNode Title="GetLiveSessionsResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.GetLiveSessionsResponse.htm" />
+      <HelpTOCNode Title="GetLiveSessionsResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.GetLiveSessionsResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9474c38c-63f2-4ba9-ab68-00d4c952d23e" Title="PublishRegnoConfigurationResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.PublishRegnoConfigurationResponse.htm">
+      <HelpTOCNode Title="PublishRegnoConfigurationResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.PublishRegnoConfigurationResponse.htm" />
+      <HelpTOCNode Title="PublishRegnoConfigurationResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.PublishRegnoConfigurationResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="701d4e72-5b33-401f-ab1e-ed7b976b3166" Title="PublishRegnoTypeCollectionResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionResponse.htm">
+      <HelpTOCNode Title="PublishRegnoTypeCollectionResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionResponse.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeCollectionResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="502e323a-8e4c-4735-bd28-8690d6921cbc" Title="PublishRegnoTypeCollectionToTopicResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionToTopicResponse.htm">
+      <HelpTOCNode Title="PublishRegnoTypeCollectionToTopicResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionToTopicResponse.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeCollectionToTopicResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeCollectionToTopicResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fd8dd4c8-9614-45e0-865e-f7cfbfd02dec" Title="PublishRegnoTypeResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeResponse.htm">
+      <HelpTOCNode Title="PublishRegnoTypeResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeResponse.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf633695-d44f-48f1-aa12-e77c4ddc0d47" Title="PublishRegnoTypeToTopicResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeToTopicResponse.htm">
+      <HelpTOCNode Title="PublishRegnoTypeToTopicResponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeToTopicResponse.htm" />
+      <HelpTOCNode Title="PublishRegnoTypeToTopicResponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.PublishRegnoTypeToTopicResponse.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ResetConfigurationStatusResponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.ResetConfigurationStatusResponse.htm" />
+    <HelpTOCNode Id="525974c4-fa91-454f-a573-7b1d17121b20" Title="RetrieveConfigurationsReponse Class" Url="html/T-RegnoSoftware.Standard.Messages.Response.RetrieveConfigurationsReponse.htm">
+      <HelpTOCNode Title="RetrieveConfigurationsReponse Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Messages.Response.RetrieveConfigurationsReponse.htm" />
+      <HelpTOCNode Title="RetrieveConfigurationsReponse Constructor " Url="html/M-RegnoSoftware.Standard.Messages.Response.RetrieveConfigurationsReponse.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="76af7b6b-6f85-45f2-aedd-a3ae65a30580" Title="RegnoSoftware.Standard.Processors Namespace" Url="html/N-RegnoSoftware.Standard.Processors.htm">
+    <HelpTOCNode Id="b5270b7b-3882-4c98-81e2-7cdc456a3cf9" Title="ParameterProcessor Class" Url="html/T-RegnoSoftware.Standard.Processors.ParameterProcessor.htm">
+      <HelpTOCNode Title="ParameterProcessor Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Processors.ParameterProcessor.htm" />
+      <HelpTOCNode Id="4932385f-aaff-4966-b27c-e06075883444" Title="ParameterProcessor Fields" Url="html/Fields.T-RegnoSoftware.Standard.Processors.ParameterProcessor.htm">
+        <HelpTOCNode Title="RawParameterData Field" Url="html/F-RegnoSoftware.Standard.Processors.ParameterProcessor.RawParameterData.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9d52f281-cd65-4eb5-83ab-b95a084a1eba" Title="ParameterProcessor Methods" Url="html/Methods.T-RegnoSoftware.Standard.Processors.ParameterProcessor.htm">
+        <HelpTOCNode Title="AddRawData Method " Url="html/M-RegnoSoftware.Standard.Processors.ParameterProcessor.AddRawData.htm" />
+        <HelpTOCNode Title="GenerateDataDocumentsForParameter Method " Url="html/M-RegnoSoftware.Standard.Processors.ParameterProcessor.GenerateDataDocumentsForParameter.htm" />
+        <HelpTOCNode Title="GenerateDataStatsForParameter Method " Url="html/M-RegnoSoftware.Standard.Processors.ParameterProcessor.GenerateDataStatsForParameter.htm" />
+        <HelpTOCNode Title="GenerateSamplesDocumentsForParameter Method " Url="html/M-RegnoSoftware.Standard.Processors.ParameterProcessor.GenerateSamplesDocumentsForParameter.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bc5dbf36-6d25-480e-970e-8558d1d88a2f" Title="RegnoSoftware.Standard.Services Namespace" Url="html/N-RegnoSoftware.Standard.Services.htm">
+    <HelpTOCNode Id="14278133-cf52-4c27-97ee-15648df0be13" Title="IDataManager Interface" Url="html/T-RegnoSoftware.Standard.Services.IDataManager.htm">
+      <HelpTOCNode Title="IDataManager Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.IDataManager.htm" />
+      <HelpTOCNode Id="9044869b-3b2b-4329-8700-b6f2903052b5" Title="IDataManager Methods" Url="html/Methods.T-RegnoSoftware.Standard.Services.IDataManager.htm">
+        <HelpTOCNode Title="Activate Method " Url="html/M-RegnoSoftware.Standard.Services.IDataManager.Activate.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/M-RegnoSoftware.Standard.Services.IDataManager.Deactivate.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Services.IDataManager.Initialize.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a56c0354-603c-4fcd-98a8-26c5c9e79b50" Title="IEventHubManager Interface" Url="html/T-RegnoSoftware.Standard.Services.IEventHubManager.htm">
+      <HelpTOCNode Title="IEventHubManager Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.IEventHubManager.htm" />
+      <HelpTOCNode Id="5d1efaa1-3659-45ff-9fec-eab91ddf2ca1" Title="IEventHubManager Properties" Url="html/Properties.T-RegnoSoftware.Standard.Services.IEventHubManager.htm">
+        <HelpTOCNode Title="ConnectionString Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.ConnectionString.htm" />
+        <HelpTOCNode Title="DeviceId Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.DeviceId.htm" />
+        <HelpTOCNode Title="DeviceKey Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.DeviceKey.htm" />
+        <HelpTOCNode Title="HubUri Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.HubUri.htm" />
+        <HelpTOCNode Title="IsInitialised Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.IsInitialised.htm" />
+        <HelpTOCNode Title="Ready Property " Url="html/P-RegnoSoftware.Standard.Services.IEventHubManager.Ready.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a15b1362-ef11-4a72-a60d-867bda0e084a" Title="IRawParameterData Interface" Url="html/T-RegnoSoftware.Standard.Services.IRawParameterData.htm">
+      <HelpTOCNode Title="IRawParameterData Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.IRawParameterData.htm" />
+      <HelpTOCNode Id="41b5386d-ab23-45f6-aeac-87bb2415ff8e" Title="IRawParameterData Properties" Url="html/Properties.T-RegnoSoftware.Standard.Services.IRawParameterData.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-RegnoSoftware.Standard.Services.IRawParameterData.Data.htm" />
+        <HelpTOCNode Title="RegnoParamDefDoc Property " Url="html/P-RegnoSoftware.Standard.Services.IRawParameterData.RegnoParamDefDoc.htm" />
+        <HelpTOCNode Title="SampleCount Property " Url="html/P-RegnoSoftware.Standard.Services.IRawParameterData.SampleCount.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-RegnoSoftware.Standard.Services.IRawParameterData.Status.htm" />
+        <HelpTOCNode Title="TimeStamps Property " Url="html/P-RegnoSoftware.Standard.Services.IRawParameterData.TimeStamps.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IRegnoExternalPublisherService Interface" Url="html/T-RegnoSoftware.Standard.Services.IRegnoExternalPublisherService.htm" />
+    <HelpTOCNode Title="IRegnoExternalSubscriberService Interface" Url="html/T-RegnoSoftware.Standard.Services.IRegnoExternalSubscriberService.htm" />
+    <HelpTOCNode Id="f5756f8d-a167-48c6-8988-b78a43682036" Title="IRegnoPublisherDevice Interface" Url="html/T-RegnoSoftware.Standard.Services.IRegnoPublisherDevice.htm">
+      <HelpTOCNode Title="IRegnoPublisherDevice Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.IRegnoPublisherDevice.htm" />
+      <HelpTOCNode Id="a2294d83-a810-4310-9163-d755a18e191c" Title="IRegnoPublisherDevice Methods" Url="html/Methods.T-RegnoSoftware.Standard.Services.IRegnoPublisherDevice.htm">
+        <HelpTOCNode Title="Activate Method " Url="html/M-RegnoSoftware.Standard.Services.IRegnoPublisherDevice.Activate.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/M-RegnoSoftware.Standard.Services.IRegnoPublisherDevice.Deactivate.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26e206e1-b776-4e27-8bd8-1c7a5dbfe273" Title="IRegnoSubscriberDevice Interface" Url="html/T-RegnoSoftware.Standard.Services.IRegnoSubscriberDevice.htm">
+      <HelpTOCNode Title="IRegnoSubscriberDevice Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.IRegnoSubscriberDevice.htm" />
+      <HelpTOCNode Id="73882113-285f-41cf-bbe8-170dbd95933e" Title="IRegnoSubscriberDevice Methods" Url="html/Methods.T-RegnoSoftware.Standard.Services.IRegnoSubscriberDevice.htm">
+        <HelpTOCNode Title="Start Method " Url="html/M-RegnoSoftware.Standard.Services.IRegnoSubscriberDevice.Start.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/M-RegnoSoftware.Standard.Services.IRegnoSubscriberDevice.Stop.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="14e80e22-d98c-4697-a301-80530ad6cae9" Title="RawParameterData Class" Url="html/T-RegnoSoftware.Standard.Services.RawParameterData.htm">
+      <HelpTOCNode Title="RawParameterData Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.RawParameterData.htm" />
+      <HelpTOCNode Id="8dac1e7d-c23e-470d-9a55-af85c4586fc9" Title="RawParameterData Constructor " Url="html/Overload-RegnoSoftware.Standard.Services.RawParameterData.-ctor.htm">
+        <HelpTOCNode Title="RawParameterData Constructor " Url="html/M-RegnoSoftware.Standard.Services.RawParameterData.-ctor.htm" />
+        <HelpTOCNode Title="RawParameterData Constructor (IRegnoParamDefDoc, Double[], Int64[], Int32)" Url="html/M-RegnoSoftware.Standard.Services.RawParameterData.-ctor_1.htm" />
+        <HelpTOCNode Title="RawParameterData Constructor (IRegnoParamDefDoc, Double[], Int16[], Int64[], Int32)" Url="html/M-RegnoSoftware.Standard.Services.RawParameterData.-ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5120612e-5fac-492d-861a-3a2e38db5c6d" Title="RawParameterData Properties" Url="html/Properties.T-RegnoSoftware.Standard.Services.RawParameterData.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P-RegnoSoftware.Standard.Services.RawParameterData.Data.htm" />
+        <HelpTOCNode Title="RegnoParamDefDoc Property " Url="html/P-RegnoSoftware.Standard.Services.RawParameterData.RegnoParamDefDoc.htm" />
+        <HelpTOCNode Title="SampleCount Property " Url="html/P-RegnoSoftware.Standard.Services.RawParameterData.SampleCount.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-RegnoSoftware.Standard.Services.RawParameterData.Status.htm" />
+        <HelpTOCNode Title="TimeStamps Property " Url="html/P-RegnoSoftware.Standard.Services.RawParameterData.TimeStamps.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08020e51-8336-4c9c-b789-b04b19ee07d6" Title="RegnoDataManagerBase Class" Url="html/T-RegnoSoftware.Standard.Services.RegnoDataManagerBase.htm">
+      <HelpTOCNode Title="RegnoDataManagerBase Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.RegnoDataManagerBase.htm" />
+      <HelpTOCNode Id="2bf34021-50bc-4ff4-a89b-ed352be28d17" Title="RegnoDataManagerBase Methods" Url="html/Methods.T-RegnoSoftware.Standard.Services.RegnoDataManagerBase.htm">
+        <HelpTOCNode Title="Activate Method " Url="html/M-RegnoSoftware.Standard.Services.RegnoDataManagerBase.Activate.htm" />
+        <HelpTOCNode Title="Deactivate Method " Url="html/M-RegnoSoftware.Standard.Services.RegnoDataManagerBase.Deactivate.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-RegnoSoftware.Standard.Services.RegnoDataManagerBase.Initialize.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95bd4e1e-a46c-49a7-a437-64b3a74684aa" Title="RegnoMessageQueue Class" Url="html/T-RegnoSoftware.Standard.Services.RegnoMessageQueue.htm">
+      <HelpTOCNode Title="RegnoMessageQueue Members" Url="html/AllMembers.T-RegnoSoftware.Standard.Services.RegnoMessageQueue.htm" />
+      <HelpTOCNode Title="RegnoMessageQueue Constructor " Url="html/M-RegnoSoftware.Standard.Services.RegnoMessageQueue.-ctor.htm" />
+      <HelpTOCNode Id="b3ccce43-3a44-4fce-85e3-5aeb00838d9b" Title="RegnoMessageQueue Methods" Url="html/Methods.T-RegnoSoftware.Standard.Services.RegnoMessageQueue.htm">
+        <HelpTOCNode Title="Dequeue Method " Url="html/M-RegnoSoftware.Standard.Services.RegnoMessageQueue.Dequeue.htm" />
+        <HelpTOCNode Title="Enqueue Method " Url="html/M-RegnoSoftware.Standard.Services.RegnoMessageQueue.Enqueue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fc0ebf5f-db2d-4365-a717-8b29a7eb4a12" Title="RegnoMessageQueue Properties" Url="html/Properties.T-RegnoSoftware.Standard.Services.RegnoMessageQueue.htm">
+        <HelpTOCNode Title="IsEmpty Property " Url="html/P-RegnoSoftware.Standard.Services.RegnoMessageQueue.IsEmpty.htm" />
+        <HelpTOCNode Title="Priority Property " Url="html/P-RegnoSoftware.Standard.Services.RegnoMessageQueue.Priority.htm" />
+        <HelpTOCNode Title="Queue Property " Url="html/P-RegnoSoftware.Standard.Services.RegnoMessageQueue.Queue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
